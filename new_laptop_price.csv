@@ -1,0 +1,1304 @@
+Company,TypeName,Inches,ScreenResolution,Cpu,Ram,Gpu,OpSys,Weight,SSD,HDD,Flash,Hybrid,Price_rupees
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 2.3GHz,8,Intel,macOS,1.37,128,0,0,0,140667.45
+Apple,Ultrabook,13.3,1440x900,Intel Core i5 1.8GHz,8,Intel,macOS,1.34,0,0,128,0,94388.70000000001
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,No OS,1.86,256,0,0,0,60375.0
+Apple,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,others,16,AMD,macOS,1.83,512,0,0,0,266432.25
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 3.1GHz,8,Intel,macOS,1.37,256,0,0,0,189378.0
+Acer,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4,AMD,Windows 10,2.1,0,500,0,0,42000.0
+Apple,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,others,16,Intel,Mac OS X,2.04,0,0,256,0,224696.84999999998
+Apple,Ultrabook,13.3,1440x900,Intel Core i5 1.8GHz,8,Intel,macOS,1.34,0,0,256,0,121663.5
+Asus,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,Nvidia,Windows 10,1.3,512,0,0,0,156975.0
+Acer,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.6,256,0,0,0,80850.0
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,No OS,1.86,0,500,0,0,41359.5
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,No OS,1.86,0,500,0,0,36223.950000000004
+Apple,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,others,16,AMD,macOS,1.83,256,0,0,0,256196.84999999998
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,AMD,Windows 10,2.2,256,0,0,0,52384.5
+Apple,Ultrabook,12.0,IPS Panel Retina Display 2304x1440,others,8,Intel,macOS,0.92,256,0,0,0,132552.0
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 2.3GHz,8,Intel,macOS,1.37,256,0,0,0,159447.75
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,AMD,Windows 10,2.2,256,0,0,0,78225.0
+Apple,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,others,16,AMD,macOS,1.83,512,0,0,0,300090.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8,Nvidia,No OS,2.2,0,1000,0,0,52395.0
+Dell,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.22,128,0,0,0,102795.0
+Asus,Netbook,11.6,1366x768,Intel Atom x5-Z8350 1.44GHz,2,Intel,Windows 10,0.98,0,0,32,0,20149.5
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.5,128,1000,0,0,104895.0
+HP,Notebook,15.6,1366x768,AMD E-Series E2-9000e 1.5GHz,4,AMD,No OS,1.86,0,500,0,0,27090.0
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.62,256,0,0,0,85995.0
+HP,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.91,256,0,0,0,69195.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.3,0,1000,0,0,43957.2
+Apple,Ultrabook,13.3,1440x900,Intel Core i5 1.6GHz,8,Intel,Mac OS X,1.35,0,0,128,0,115395.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,2.2,256,0,0,0,84000.0
+Dell,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 8650U 1.9GHz,8,Intel,Windows 10,1.88,512,0,0,0,136290.0
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Nvidia,Windows 10,2.5,0,1000,0,0,94080.0
+Others,Notebook,15.6,Full HD 1920x1080,others,4,Intel,Windows 10,1.89,0,0,64,0,25723.95
+Asus,Notebook,14.0,1366x768,others,2,AMD,Windows 10,1.65,0,0,32,0,20895.0
+HP,Notebook,17.3,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4,AMD,Windows 10,2.71,0,500,0,0,46095.0
+Dell,Ultrabook,13.3,Touchscreen / Quad HD+ 3200x1800,Intel Core i7 8550U 1.8GHz,16,Intel,Windows 10,1.2,512,0,0,0,196245.0
+Apple,Ultrabook,13.3,1440x900,Intel Core i5 1.6GHz,8,Intel,Mac OS X,1.35,0,0,256,0,104790.0
+Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.44,0,0,64,0,26145.0
+Acer,Notebook,15.6,1366x768,Intel Core i3 7130U 2.7GHz,4,Intel,Linux,2.1,0,1000,0,0,38535.0
+Dell,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,2.8,128,1000,0,0,102795.0
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.86,0,1000,0,0,51312.45
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Nvidia,Windows 10,2.1,256,0,0,0,92295.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Linux,2.0,0,1000,0,0,40845.0
+Dell,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.65,256,1000,0,0,157395.0
+Asus,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Nvidia,Linux,2.3,0,1000,0,0,54913.950000000004
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,Intel,Windows 10,2.2,256,0,0,0,71610.0
+Dell,2 in 1 Convertible,17.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,12,Nvidia,Windows 10,2.77,0,1000,0,0,104895.0
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,others,8,Intel,macOS,1.37,256,0,0,0,148995.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,No OS,2.2,128,0,0,0,38745.0
+Asus,Gaming,17.3,Full HD 1920x1080,AMD Ryzen 1700 3GHz,8,AMD,Windows 10,3.2,256,1000,0,0,136395.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,AMD,Windows 10,2.3,256,0,0,0,67095.0
+Asus,Notebook,17.3,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Nvidia,Windows 10,2.8,0,1000,0,0,48930.0
+Lenovo,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4,Intel,Android,0.69,0,0,64,0,33495.0
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,2.2,256,0,0,0,88305.0
+HP,Notebook,15.6,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4,AMD,Windows 10,1.86,256,0,0,0,41841.450000000004
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.49,512,0,0,0,115815.0
+Acer,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.4,0,1000,0,0,40320.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,2.13,256,0,0,0,80619.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.91,128,0,0,0,46095.0
+Asus,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.0,256,0,0,0,61549.950000000004
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.43,256,2000,0,0,257145.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Linux,2.0,256,0,0,0,43575.0
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,AMD,Windows 10,2.8,256,2000,0,0,136395.0
+Dell,Ultrabook,14.0,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.7,256,0,0,0,92295.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,8,Intel,No OS,1.7,256,0,0,0,62895.0
+Asus,Notebook,14.0,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.4,256,0,0,0,98805.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.86,256,0,0,0,72450.0
+Asus,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,1.8,512,0,0,0,208215.0
+HP,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,AMD,Windows 10,1.86,0,500,0,0,46062.45
+HP,Notebook,14.0,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Windows 10,1.44,32,0,0,0,24045.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.9,0,1000,0,0,57645.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,Nvidia,Linux,3.0,0,1000,0,0,99645.0
+Others,Ultrabook,13.5,Touchscreen 2256x1504,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10 S,1.252,128,0,0,0,114345.0
+Dell,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,1.4,256,0,0,0,100275.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,2.2,256,0,0,0,91350.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.7,128,1000,0,0,114975.0
+Acer,Notebook,14.0,1366x768,Intel Core i3 6006U 2GHz,8,Intel,Windows 10,2.1,0,1000,0,0,40845.0
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.2,0,1000,0,0,99645.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,No OS,2.2,0,2000,0,0,54495.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,2.02,128,1000,0,0,89775.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,Nvidia,Windows 10,2.2,0,1000,0,0,55650.0
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Nvidia,Windows 10,2.5,128,1000,0,0,102585.0
+Dell,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.88,256,0,0,0,115096.8
+Apple,Ultrabook,12.0,IPS Panel Retina Display 2304x1440,others,8,Intel,macOS,0.92,512,0,0,0,158550.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.63,256,0,0,0,90300.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4,AMD,Windows 10,2.2,128,0,0,0,41895.0
+Acer,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4,AMD,Windows 10,2.1,0,1000,0,0,41475.0
+Dell,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.65,128,1000,0,0,141645.0
+HP,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,1.83,256,0,0,0,73395.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.96,256,0,0,0,62893.950000000004
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.2,128,1000,0,0,152145.0
+Dell,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.21,256,0,0,0,173145.0
+Asus,Gaming,15.6,Full HD 1920x1080,others,8,AMD,Windows 10,2.45,0,1000,0,0,73395.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,2.2,0,1000,0,0,72345.0
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,Intel,Windows 10,1.49,512,0,0,0,125685.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.65,256,0,0,0,125475.0
+Asus,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.25,256,0,0,0,110145.0
+Acer,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.5,256,0,0,0,88935.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,AMD,Linux,2.2,0,1000,0,0,62989.5
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,AMD,Linux,2.2,256,0,0,0,50925.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,6,Nvidia,Windows 10,2.0,256,0,0,0,60585.0
+HP,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,Nvidia,Windows 10,2.62,128,1000,0,0,131145.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,AMD,Windows 10,1.91,256,0,0,0,75495.0
+HP,Notebook,15.6,Full HD 1920x1080,AMD E-Series E2-9000e 1.5GHz,4,AMD,Windows 10,2.1,0,500,0,0,36645.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Linux,2.2,0,1000,0,0,67935.0
+HP,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,1.38,256,0,0,0,117495.0
+Others,Ultrabook,13.5,Touchscreen 2256x1504,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10 S,1.252,256,0,0,0,140700.0
+HP,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6,Nvidia,Windows 10,1.58,256,0,0,0,69195.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.85,0,1000,0,0,43564.5
+Asus,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,1.3,256,0,0,0,125265.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.2,256,1000,0,0,136395.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.58,256,0,0,0,155400.0
+Asus,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,Nvidia,Windows 10,1.5,256,1000,0,0,132510.0
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7560U 2.4GHz,8,Intel,Windows 10,1.23,256,0,0,0,144795.0
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.37,256,0,0,0,146895.0
+HP,Notebook,14.0,IPS Panel 1366x768,Intel Core i5 8250U 1.6GHz,4,Intel,Windows 10,1.63,0,500,0,0,75810.0
+Dell,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.21,256,0,0,0,171045.0
+HP,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.26,256,0,0,0,146893.95
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.63,512,0,0,0,113820.0
+Dell,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,2.16,256,1000,0,0,118684.65
+Asus,Notebook,17.3,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Nvidia,Windows 10,2.0,0,1000,0,0,59220.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,1.7,256,0,0,0,117390.0
+Acer,Notebook,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,6,Intel,Windows 10,2.1,0,1000,0,0,50295.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,1.8,256,2000,0,0,235357.5
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,No OS,2.2,256,0,0,0,66045.0
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,Nvidia,Windows 10,2.5,512,0,0,0,133455.0
+Acer,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4,AMD,Windows 10,2.1,256,0,0,0,47355.0
+HP,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,No OS,1.86,0,500,0,0,27195.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.63,0,1000,0,0,85260.0
+Asus,Notebook,14.0,1366x768,others,4,AMD,Windows 10 S,1.65,64,0,0,0,29188.95
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,AMD,Windows 10,2.8,256,2000,0,0,146580.0
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,2.5,256,0,0,0,97440.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,2.36,0,1000,0,0,67093.95
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,AMD,Windows 10,2.2,0,1000,0,0,47145.0
+Acer,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.6,256,0,0,0,92820.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,Nvidia,Windows 10,2.2,256,0,0,0,60060.0
+HP,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,2.05,0,1000,0,0,62790.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.63,256,0,0,0,103740.0
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,No OS,1.9,0,1000,0,0,26497.800000000003
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,3.0,128,1000,0,0,98490.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Nvidia,No OS,2.2,0,1000,0,0,52395.0
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.32,256,0,0,0,73395.0
+Acer,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,Nvidia,Windows 10,3.0,0,1000,0,0,68775.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,1.75,256,0,0,0,117182.09999999999
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,No OS,2.4,256,0,0,0,91245.0
+Others,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,2.1,0,500,0,0,63210.0
+HP,Notebook,15.6,1366x768,AMD A6-Series 9220 2.5GHz,4,AMD,Windows 10,1.86,256,0,0,0,38745.0
+Asus,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.25,256,0,0,0,115395.0
+HP,Ultrabook,12.5,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core M 6Y75 1.2GHz,8,Intel,Windows 10,0.97,512,0,0,0,211470.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,2.0,0,1000,0,0,36120.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.9,256,1000,0,0,213045.0
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.1,0,1000,0,0,46935.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.56,512,0,0,0,131172.3
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.62,0,0,0,1,94395.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.9,128,0,0,0,52290.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.8,256,1000,0,0,198450.0
+HP,Ultrabook,14.0,Full HD 1920x1080,others,4,Intel,Windows 10,1.48,256,0,0,0,113610.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,6,AMD,Windows 10,1.91,256,0,0,0,64995.0
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,1.74,256,0,0,0,66045.0
+Asus,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.1,256,0,0,0,138075.0
+Dell,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.56,256,0,0,0,110145.0
+Others,Notebook,15.6,1366x768,others,4,Intel,Windows 10,2.1,0,500,0,0,46935.0
+Asus,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4,AMD,Windows 10,2.03,0,1000,0,0,42315.0
+Acer,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,Nvidia,Windows 10,3.0,256,0,0,0,84525.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,2.13,256,0,0,0,76440.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.5,256,0,0,0,113295.0
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,2.1,0,1000,0,0,36540.0
+MSI,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.4,256,1000,0,0,188895.0
+Acer,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Windows 10,2.1,0,1000,0,0,38168.549999999996
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.56,128,1000,0,0,111351.45
+Acer,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Nvidia,Windows 10,3.0,256,0,0,0,89670.0
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,Intel,Windows 10,1.49,0,500,0,0,79170.0
+Others,Ultrabook,13.0,IPS Panel Full HD 2160x1440,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.05,256,0,0,0,141645.0
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6,AMD,Windows 10,2.71,0,2000,0,0,73395.0
+Lenovo,Notebook,15.6,1366x768,others,4,AMD,No OS,2.2,0,500,0,0,32445.0
+Others,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.0,0,500,0,0,51345.0
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Nvidia,Windows 10,2.5,256,0,0,0,96915.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,8,Intel,Windows 10,2.3,0,1000,0,0,48195.0
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.1,128,0,0,0,47145.0
+MSI,Gaming,18.4,Full HD 1920x1080,others,32,Nvidia,Windows 10,4.4,512,1000,0,0,293895.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,1.9,128,1000,0,0,85365.0
+HP,2 in 1 Convertible,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.29,256,0,0,0,157395.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,AMD,Linux,2.02,256,2000,0,0,110145.0
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.23,256,0,0,0,146895.0
+Lenovo,2 in 1 Convertible,13.9,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16,Intel,Windows 10,1.4,512,0,0,0,194145.0
+Others,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.0,128,0,0,0,83265.0
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Nvidia,No OS,1.95,256,0,0,0,125895.0
+Dell,Notebook,17.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,16,Nvidia,Windows 10,2.77,512,0,0,0,162645.0
+Dell,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.06,512,0,0,0,251685.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,No OS,2.4,256,0,0,0,81795.0
+Acer,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7Y54 1.2GHz,8,Intel,Windows 10,1.12,256,0,0,0,103845.0
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,2.8,128,1000,0,0,113925.0
+Lenovo,2 in 1 Convertible,14.0,Touchscreen 2560x1440,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.42,1000,0,0,0,296520.0
+Others,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.3,0,0,32,0,27300.0
+Others,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,No OS,1.3,256,0,0,0,104989.5
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 8250U 1.6GHz,8,Nvidia,No OS,2.8,256,0,0,0,73290.0
+Dell,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.62,0,1000,0,0,88095.0
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Nvidia,Windows 10,2.5,0,1000,0,0,95970.0
+Others,Gaming,17.3,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7820HK 2.9GHz,32,Nvidia,Windows 10,3.49,1000,0,0,0,640395.0
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.49,512,0,0,0,100695.0
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,3.35,256,1000,0,0,144795.0
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,2.5,256,0,0,0,109725.0
+Dell,Gaming,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.65,512,1000,0,0,193725.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,2.1,128,0,0,0,51765.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.23,0,1000,0,0,77910.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,3.2,512,1000,0,0,183645.0
+Dell,Workstation,15.6,4K Ultra HD 3840x2160,Intel Xeon E3-1505M V6 3GHz,16,Nvidia,Windows 10,2.8,256,1000,0,0,320775.0
+Lenovo,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,No OS,2.4,512,0,0,0,146790.0
+Dell,Notebook,15.6,Touchscreen 1366x768,Intel Core i3 7100U 2.4GHz,6,Intel,Windows 10,2.3,0,1000,0,0,46095.0
+Dell,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.21,256,0,0,0,204645.0
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.2,256,0,0,0,152145.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.2,256,0,0,0,62685.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Linux,2.4,0,1000,0,0,81795.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.9,256,1000,0,0,147735.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,No OS,2.1,0,500,0,0,36645.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,No OS,2.2,256,0,0,0,57645.0
+Others,Ultrabook,13.0,IPS Panel Full HD 2160x1440,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.05,512,0,0,0,157395.0
+Dell,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,1.4,256,0,0,0,97847.4
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,8,Nvidia,No OS,2.8,0,1000,0,0,61845.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,1.63,256,0,0,0,108255.0
+Dell,Ultrabook,14.0,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.6,256,0,0,0,120645.0
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,16,Intel,Windows 10,1.62,512,0,0,0,134295.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Linux,2.2,256,0,0,0,71121.75
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.74,256,0,0,0,94395.0
+Others,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.2,256,0,0,0,143115.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,2.1,0,1000,0,0,83370.0
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,4.42,256,1000,0,0,257915.7
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.2,256,0,0,0,87360.0
+Dell,Notebook,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16,AMD,Windows 10,2.3,0,1000,0,0,90196.05
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,2.0,256,0,0,0,80745.0
+Asus,Notebook,17.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,2.69,256,500,0,0,93555.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,AMD,Windows 10,1.9,0,1000,0,0,133245.0
+Asus,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.37,0,1000,0,0,41893.950000000004
+HP,Notebook,15.6,1366x768,others,4,AMD,Windows 10,2.1,0,500,0,0,34650.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,3.2,256,1000,0,0,157395.0
+Dell,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.6,256,0,0,0,90195.0
+Acer,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.6,256,0,0,0,72345.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,AMD,Linux,2.36,256,0,0,0,94395.0
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Linux,2.1,0,1000,0,0,40950.0
+Asus,Notebook,15.6,Full HD 1920x1080,AMD A10-Series A10-9620P 2.5GHz,4,AMD,Windows 10,2.2,128,1000,0,0,60375.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7820HK 2.9GHz,32,Nvidia,Windows 10,4.7,512,1000,0,0,408450.0
+Acer,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.5,256,0,0,0,88830.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,8,Intel,Windows 10,2.2,128,0,0,0,61845.0
+Asus,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,2.1,128,1000,0,0,120225.0
+Asus,Notebook,17.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,No OS,2.69,128,1000,0,0,93345.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.56,256,0,0,0,92295.0
+Lenovo,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.38,256,0,0,0,113295.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,2.2,128,2000,0,0,103425.0
+HP,Notebook,15.6,Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.04,0,1000,0,0,58695.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7820HK 2.9GHz,16,Nvidia,Windows 10,3.6,256,0,0,0,314895.0
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,Intel,Windows 10,1.49,0,500,0,0,70875.0
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel Core i5 3.1GHz,8,Intel,macOS,1.37,512,0,0,0,214200.0
+Dell,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,2.08,0,1000,0,0,85995.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,4.3,256,1000,0,0,188895.0
+Asus,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4,AMD,Windows 10,1.68,0,1000,0,0,49245.0
+Lenovo,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.37,512,0,0,0,194145.0
+Acer,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,Nvidia,Windows 10,3.0,256,0,0,0,73710.0
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.41,256,0,0,0,99645.0
+HP,Notebook,15.6,1366x768,AMD A6-Series A6-9220 2.5GHz,8,AMD,Windows 10,1.91,128,0,0,0,46819.5
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,Nvidia,Windows 10,2.9,0,1000,0,0,111195.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,4.14,512,1000,0,0,262395.0
+Lenovo,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.0,512,0,0,0,178395.0
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,2.8,128,1000,0,0,119910.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,No OS,2.2,256,0,0,0,46620.0
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,Intel,Windows 10,2.1,0,500,0,0,75810.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.18,0,1000,0,0,68985.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,2.24,0,1000,0,0,59325.0
+Dell,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,2.67,256,0,0,0,83895.0
+Asus,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.1,1024,0,0,0,157395.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,No OS,2.2,0,1000,0,0,49035.0
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,2.5,0,1000,0,0,106890.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,2.05,256,0,0,0,92400.0
+Apple,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,others,8,Intel,macOS,1.37,512,0,0,0,205684.5
+Asus,Gaming,17.3,Full HD 1920x1080,AMD Ryzen 1700 3GHz,16,AMD,Windows 10,3.2,256,1000,0,0,162645.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Linux,2.14,256,0,0,0,77182.35
+Lenovo,2 in 1 Convertible,14.0,Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,16,Intel,Windows 10,1.36,512,0,0,0,262395.0
+Others,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,8,Nvidia,Windows 10,2.2,0,500,0,0,85260.0
+Dell,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,12,Intel,Windows 10,2.3,0,1000,0,0,74872.35
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Linux,2.8,128,1000,0,0,115395.0
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,2.2,0,1000,0,0,78225.0
+Lenovo,Notebook,17.3,1600x900,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.8,0,1000,0,0,51345.0
+Lenovo,Notebook,17.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,No OS,2.8,0,2000,0,0,89145.0
+Lenovo,Notebook,17.3,1600x900,Intel Core i7 7500U 2.7GHz,6,Nvidia,Windows 10,2.8,128,1000,0,0,90195.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2.0GHz,4,AMD,Linux,2.25,0,1000,0,0,44940.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.5,256,0,0,0,87045.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6,Intel,Windows 10,2.2,256,0,0,0,60795.0
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,3.0,256,0,0,0,99855.0
+Acer,Notebook,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12,Intel,Windows 10,2.15,0,1000,0,0,69195.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.95,256,0,0,0,115185.0
+Asus,Ultrabook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,1.7,256,0,0,0,102585.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.5,256,1000,0,0,123795.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,No OS,2.2,0,1000,0,0,69196.05
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core 3205U 1.5GHz,2,Intel,Chrome OS,2.19,16,0,0,0,20895.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,3.0,0,1000,0,0,124635.0
+HP,Notebook,17.3,1600x900,Intel Core i3 6006U 2GHz,8,Intel,Windows 10,2.54,0,1000,0,0,51345.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.0,256,0,0,0,192045.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,2.05,256,0,0,0,77595.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,3.2,0,1000,0,0,136395.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Linux,2.5,256,0,0,0,102795.0
+Dell,Workstation,17.3,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,16,Nvidia,Windows 10,3.42,256,0,0,0,302910.3
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A10-Series 9600P 2.4GHz,6,AMD,Windows 10,2.4,0,1000,0,0,52395.0
+Asus,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,Nvidia,Windows 10,1.63,512,0,0,0,154140.0
+Asus,Notebook,14.0,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,1.3,128,0,0,0,53445.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.9,256,1000,0,0,222810.0
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,6,Nvidia,Windows 10,2.8,0,1000,0,0,68145.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Nvidia,No OS,2.2,0,2000,0,0,57645.0
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.5,128,1000,0,0,132825.0
+Lenovo,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,No OS,2.2,0,1000,0,0,37798.950000000004
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7600U 2.8GHz,16,Intel,Windows 10,1.28,256,0,0,0,207375.0
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Nvidia,Windows 10,2.2,256,0,0,0,109515.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,2.3,128,1000,0,0,85995.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.86,0,1000,0,0,49245.0
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.1,256,0,0,0,104895.0
+Dell,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16,Intel,Windows 10,1.21,1000,0,0,0,262395.0
+MSI,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.8,256,1000,0,0,220395.0
+Acer,Notebook,15.6,Full HD 1920x1080,AMD A8-Series 7410 2.2GHz,8,AMD,Windows 10,2.23,256,0,0,0,49245.0
+Asus,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3350 1.1GHz,2,Intel,Windows 10,1.1,0,0,32,0,28875.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,2.33,128,1000,0,0,88620.0
+HP,2 in 1 Convertible,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16,Intel,Windows 10,1.29,1000,0,0,0,257145.0
+Lenovo,Notebook,13.3,1366x768,Intel Celeron Dual Core 3855U 1.6GHz,4,Intel,Chrome OS,1.45,0,0,16,0,48289.5
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.95,256,0,0,0,102900.0
+Acer,Notebook,11.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4,Intel,Windows 10,1.4,0,0,128,0,50925.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.48,256,0,0,0,135660.0
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,4,Nvidia,Windows 10,2.79,0,1000,0,0,61845.0
+Asus,Notebook,14.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,2.0,256,0,0,0,114870.0
+HP,Notebook,15.6,IPS Panel Full HD 1366x768,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,2.1,0,1000,0,0,94710.0
+Acer,Notebook,15.6,1366x768,AMD A12-Series 9720P 2.7GHz,8,AMD,Windows 10,2.2,256,0,0,0,69195.0
+Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.44,0,0,32,0,30660.0
+Acer,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,6,Intel,Windows 10,2.23,0,1000,0,0,57645.0
+Asus,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,1.7,256,0,0,0,110239.50000000001
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.26,256,0,0,0,140175.0
+Dell,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,32,Nvidia,Windows 10,2.06,1000,0,0,0,277095.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.7,256,1000,0,0,125895.0
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.0,256,0,0,0,99015.0
+Asus,Notebook,14.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,2.0,256,1000,0,0,140070.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.85,0,1000,0,0,47145.0
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.5,256,0,0,0,104895.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8,Intel,Windows 10,1.48,256,0,0,0,133140.0
+Dell,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Nvidia,Windows 10,1.9,128,1000,0,0,110145.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.84,256,0,0,0,120120.0
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Linux,2.0,0,1000,0,0,28873.95
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Nvidia,Windows 10,2.0,256,0,0,0,119988.75
+Dell,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Linux,2.2,0,500,0,0,28864.499999999996
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,12,AMD,Windows 10,2.2,0,2000,0,0,94395.0
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8,Nvidia,Windows 10,2.1,0,1000,0,0,75180.0
+Lenovo,2 in 1 Convertible,13.9,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,16,Intel,Windows 10,1.4,512,0,0,0,220395.0
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.2,256,0,0,0,165795.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.4,256,2000,0,0,118545.0
+HP,Notebook,14.0,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2,Intel,Windows 10,1.44,0,0,32,0,29295.0
+Dell,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 8650U 1.9GHz,16,Intel,Windows 10,1.88,768,0,0,0,168835.80000000002
+Asus,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.5,0,0,32,0,39375.0
+Dell,Ultrabook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,1.9,0,1000,0,0,69615.0
+Dell,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.06,512,0,0,0,212879.1
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.84,256,0,0,0,136920.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.7,128,1000,0,0,147945.0
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.6,256,0,0,0,182518.35
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16,Nvidia,Windows 10,2.4,512,0,0,0,147315.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,2.02,128,2000,0,0,101944.5
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,No OS,2.2,0,1000,0,0,33808.950000000004
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.65,0,1000,0,0,104895.0
+Dell,Notebook,15.6,Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.36,0,2000,0,0,58523.85
+Dell,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8,Intel,Windows 10,1.36,256,0,0,0,149835.0
+HP,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.86,0,500,0,0,46095.0
+Asus,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.0,256,0,0,0,99225.0
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,6,Nvidia,Windows 10,2.8,128,1000,0,0,75495.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.86,0,1000,0,0,67095.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,8,Nvidia,No OS,2.2,256,0,0,0,52395.0
+HP,Notebook,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,8,Intel,Windows 10,2.04,0,2000,0,0,40845.0
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,2.8,128,1000,0,0,113925.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,No OS,2.4,128,1000,0,0,84945.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,AMD,Windows 10,2.33,256,0,0,0,94395.0
+HP,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.36,256,0,0,0,183750.0
+Asus,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12,Nvidia,Windows 10,2.26,512,2000,0,0,115395.0
+Acer,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,4,AMD,Windows 10,2.1,128,0,0,0,44730.0
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,AMD Ryzen 1700 3GHz,16,AMD,Windows 10,3.25,256,1000,0,0,230895.0
+Lenovo,Notebook,17.3,1600x900,AMD A8-Series 7410 2.2GHz,4,AMD,Windows 10,2.6,128,0,0,0,51345.0
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.62,256,0,0,0,91246.05
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9420 3GHz,4,AMD,Windows 10,1.91,256,0,0,0,51343.950000000004
+Lenovo,Netbook,11.6,IPS Panel 1366x768,Intel Celeron Quad Core N3450 1.1GHz,4,Intel,Windows 10,1.59,128,0,0,0,58065.0
+Dell,Notebook,15.6,1366x768,others,4,Intel,Windows 10,1.8,0,500,0,0,32445.0
+Asus,Notebook,14.0,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.5,0,0,32,0,30030.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Linux,2.4,0,1000,0,0,88830.0
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,3.35,128,1000,0,0,125055.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,No OS,1.85,128,0,0,0,42367.5
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.3,128,1000,0,0,173775.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,1.5,256,0,0,0,115395.0
+Asus,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.1,512,0,0,0,183634.5
+Lenovo,Ultrabook,14.0,IPS Panel 2560x1440,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.13,512,0,0,0,239610.0
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,1.5,128,0,0,0,57645.0
+Dell,Workstation,15.6,Full HD 1920x1080,others,8,AMD,Windows 10,2.23,0,500,0,0,143745.0
+Dell,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,8,Nvidia,Windows 10,2.0,256,0,0,0,224175.0
+Lenovo,2 in 1 Convertible,14.0,Touchscreen 2560x1440,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.42,512,0,0,0,263445.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,3.0,0,1000,0,0,109095.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,3.0,256,1000,0,0,167055.0
+Acer,Notebook,15.6,IPS Panel 1366x768,Intel Core i5 8250U 1.6GHz,12,Nvidia,Windows 10,2.2,0,1000,0,0,72868.95
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.7,256,0,0,0,141645.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,AMD,Linux,2.33,256,0,0,0,81781.35
+HP,Ultrabook,15.6,Full HD 1920x1080,AMD A9-Series 9420 3GHz,4,AMD,Windows 10,1.91,256,0,0,0,52395.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,2.1,256,0,0,0,129103.79999999999
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.9,256,0,0,0,98490.0
+Dell,Workstation,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,1.78,256,0,0,0,284760.0
+Lenovo,Ultrabook,14.0,IPS Panel 2560x1440,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.13,1000,0,0,0,275625.0
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,2.2,0,1000,0,0,32130.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.9,256,1000,0,0,160545.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,2.1,256,1000,0,0,120172.5
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Linux,2.5,256,0,0,0,92295.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.8,256,1000,0,0,236145.0
+Asus,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.1,512,0,0,0,196665.0
+Others,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16,Intel,Windows 10,1.2,512,0,0,0,183435.0
+Dell,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8,Intel,Windows 10,1.36,512,0,0,0,176400.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.2,0,500,0,0,42945.0
+Lenovo,Notebook,11.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,2,Intel,Windows 10,1.15,0,0,32,0,31967.25
+Lenovo,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.67,512,0,0,0,202125.0
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 2560x1440,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,1.7,512,0,0,0,204015.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,AMD,Windows 10,2.1,0,1000,0,0,49245.0
+Acer,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.6,256,0,0,0,82846.05
+Asus,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.27,256,0,0,0,97440.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,AMD,Linux,2.3,256,0,0,0,62884.5
+Dell,Notebook,13.3,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.65,128,0,0,0,72345.0
+HP,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.43,256,0,0,0,157500.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.14,0,1000,0,0,56694.75000000001
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,1.75,256,0,0,0,127614.90000000001
+Lenovo,2 in 1 Convertible,15.6,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.0,512,0,0,0,199395.0
+Others,Notebook,12.3,IPS Panel Retina Display 2736x1824,Intel Celeron Quad Core N3450 1.1GHz,6,Intel,Windows 10,1.4,0,0,64,0,47145.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,8,Intel,Windows 10,2.31,256,0,0,0,149835.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8,Nvidia,Linux,2.3,0,1000,0,0,62685.0
+Dell,Gaming,17.3,IPS Panel 2560x1440,Intel Core i7 7820HK 2.9GHz,16,Nvidia,Windows 10,4.42,256,1000,0,0,293895.0
+Dell,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.62,128,1000,0,0,121695.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,2.02,256,2000,0,0,119952.00000000001
+Dell,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8,Intel,Linux,1.6,256,0,0,0,115395.0
+HP,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,Nvidia,Windows 10,3.35,256,1000,0,0,209895.0
+Others,2 in 1 Convertible,11.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.16,32,0,0,0,31395.0
+Others,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Chrome OS,1.15,0,0,16,0,28245.0
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.4,256,0,0,0,106050.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,Intel,Windows 10,1.7,128,0,0,0,62895.0
+Lenovo,Workstation,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7600U 2.8GHz,16,Nvidia,Windows 10,2.3,512,0,0,0,256725.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,16,Nvidia,Windows 10,2.5,512,0,0,0,257145.0
+Asus,Gaming,17.3,Full HD 1920x1080,others,8,AMD,Windows 10,3.2,256,1000,0,0,177975.0
+HP,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Windows 10,2.1,0,500,0,0,36435.0
+Others,Ultrabook,12.3,Touchscreen 2400x1600,Intel Core i7 7Y75 1.3GHz,16,Intel,Chrome OS,1.1,512,0,0,0,230895.0
+Lenovo,Ultrabook,14.0,2560x1440,Intel Core i7 7500U 2.7GHz,24,Intel,Windows 10,1.32,512,0,0,0,250110.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Linux,2.0,256,0,0,0,58695.0
+Lenovo,Notebook,17.3,1600x900,AMD A6-Series 9220 2.5GHz,8,AMD,Windows 10,2.8,0,1000,0,0,54495.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,AMD,Windows 10,2.2,256,0,0,0,78645.0
+Lenovo,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.36,256,0,0,0,150045.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Windows 10,2.2,128,0,0,0,36645.0
+HP,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.2,128,1000,0,0,115395.0
+Dell,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7440HQ 2.8GHz,8,Nvidia,Windows 10,1.64,256,0,0,0,123795.0
+Acer,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Linux,2.4,0,500,0,0,46389.0
+Dell,Workstation,15.6,Full HD 1920x1080,Intel Xeon E3-1505M V6 3GHz,8,Nvidia,Windows 10,2.23,0,1000,64,0,209265.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.2,256,0,0,0,107912.7
+Others,Ultrabook,13.5,Touchscreen 2256x1504,Intel Core i7 7660U 2.5GHz,16,Intel,Windows 10 S,1.25,512,0,0,0,271845.0
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.91,128,0,0,0,61845.0
+Dell,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,16,Nvidia,Windows 10,2.17,256,0,0,0,207375.0
+HP,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,8,Intel,Windows 10,2.31,512,0,0,0,161070.0
+Lenovo,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.65,256,0,0,0,141225.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,2.36,128,1000,0,0,102795.0
+Dell,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Pentium Quad Core N3710 1.6GHz,4,Intel,Windows 10,1.47,0,500,0,0,50295.0
+Dell,Notebook,17.3,IPS Panel Full HD 1920x1080,others,8,Nvidia,Windows 10,4.42,0,1000,0,0,214830.0
+Others,Ultrabook,13.5,Touchscreen 2256x1504,others,4,Intel,Windows 10 S,1.252,128,0,0,0,103845.0
+Others,Ultrabook,13.5,Touchscreen 2256x1504,Intel Core i7 7660U 2.5GHz,8,Intel,Windows 10 S,1.25,256,0,0,0,188895.0
+HP,Notebook,17.3,1600x900,Intel Core i3 6006U 2GHz,8,Intel,Windows 10,2.5,256,0,0,0,67189.5
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Nvidia,Windows 10,2.23,0,1000,0,0,57120.0
+Acer,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Windows 10,1.4,128,0,0,0,45675.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.37,0,1000,0,0,78645.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,AMD,No OS,1.5,512,0,0,0,83895.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7820HQ 2.9GHz,8,Nvidia,Windows 10,2.67,256,0,0,0,219450.0
+Asus,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Windows 10,2.0,0,500,0,0,31920.0
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Nvidia,Windows 10,2.2,0,500,0,0,49245.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,2.02,0,2000,0,0,79695.0
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,Nvidia,Windows 10,3.78,0,1000,0,0,178395.0
+Lenovo,Ultrabook,14.0,IPS Panel Quad HD+ 2560x1440,Intel Core i7 6600U 2.6GHz,12,Intel,Windows 10,1.4,256,0,0,0,195090.0
+HP,2 in 1 Convertible,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.29,512,0,0,0,209895.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,1.9,0,500,0,0,121170.0
+Others,Ultrabook,12.3,Touchscreen 2400x1600,Intel Core i5 7Y57 1.2GHz,8,Intel,Chrome OS,1.1,128,0,0,0,133875.0
+Dell,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.42,256,0,0,0,193394.25
+Asus,Notebook,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 6700HQ 2.6GHz,12,Intel,Windows 10,2.06,128,1000,0,0,136395.0
+Dell,Notebook,14.0,1366x768,Intel Core i3 6100U 2.3GHz,8,Intel,Windows 10,1.79,128,0,0,0,77700.0
+Dell,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,1.78,256,0,0,0,252840.0
+Lenovo,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.7,180,0,0,0,143220.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,2.2,0,1000,0,0,70875.0
+Others,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.05,256,0,0,0,175560.0
+Dell,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Nvidia,Windows 10,2.16,512,0,0,0,132510.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.18,0,1000,0,0,61593.0
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,Intel,Windows 10,1.49,128,0,0,0,76230.0
+Others,Notebook,15.6,Full HD 1920x1080,Intel Atom x5-Z8350 1.44GHz,4,Intel,Windows 10,1.89,0,0,64,0,26134.5
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,Intel,Windows 10,2.3,128,0,0,0,59325.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.75,256,0,0,0,110145.0
+Dell,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,16,Nvidia,Windows 10,2.17,512,0,0,0,245490.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.06,512,0,0,0,199395.0
+Lenovo,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.36,512,0,0,0,188790.0
+Asus,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,0.91,512,0,0,0,204750.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,2.3,256,0,0,0,106258.95
+Others,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,32,Intel,Windows 10,1.05,512,0,0,0,293895.0
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,1.99,128,1000,0,0,141750.0
+Acer,Notebook,15.6,1366x768,AMD A10-Series 9620P 2.5GHz,8,AMD,Windows 10,2.2,0,1000,0,0,60795.0
+Asus,Gaming,17.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6700HQ 2.6GHz,24,Nvidia,Windows 10,4.33,256,1000,0,0,133245.0
+Lenovo,Ultrabook,12.5,IPS Panel 1366x768,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.3,180,0,0,0,115395.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,2.17,256,0,0,0,94384.5
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8,Intel,Windows 10,1.48,1000,0,0,0,183645.0
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8,Intel,Windows 10,1.4,256,0,0,0,99645.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.3,256,0,0,0,95655.0
+Asus,Netbook,11.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10 S,1.2,0,0,64,0,35700.0
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,1.91,256,0,0,0,64993.950000000004
+Lenovo,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.4,256,0,0,0,167895.0
+Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,2.1,0,500,0,0,31395.0
+Lenovo,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Chrome OS,1.25,16,0,0,0,27825.0
+Lenovo,Notebook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.44,256,0,0,0,99645.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,2.0,256,1000,0,0,128520.0
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,Nvidia,Windows 10,2.2,0,1000,0,0,64365.0
+HP,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.34,512,0,0,0,138915.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,No OS,2.4,256,1000,0,0,120645.0
+Dell,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.29,128,0,0,0,94395.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,4,Nvidia,Windows 10,2.2,0,500,0,0,67095.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.18,0,1000,0,0,87780.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,AMD,Windows 10,2.2,256,2000,0,0,128020.2
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,Nvidia,No OS,1.95,256,0,0,0,146994.75
+Asus,Netbook,11.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,2,Intel,Windows 10,1.1,0,0,32,0,25725.0
+HP,Notebook,15.6,Touchscreen 1366x768,Intel Core i5 8250U 1.6GHz,4,Intel,Windows 10,2.04,0,1000,0,0,54754.350000000006
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,24,Nvidia,Windows 10,2.24,512,0,0,0,311640.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,2.04,256,0,0,0,93345.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,3.0,256,1000,0,0,157920.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,3.2,256,1000,0,0,146895.0
+HP,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.32,256,0,0,0,146895.0
+Dell,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8,Intel,Windows 10,1.64,256,0,0,0,134371.65
+HP,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.63,128,0,0,0,72345.0
+Dell,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Linux,2.8,128,1000,0,0,93345.0
+Lenovo,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 7,2.02,256,0,0,0,140700.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,4,Nvidia,Windows 10,2.2,0,1000,0,0,83895.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,8,Nvidia,No OS,2.2,0,2000,0,0,48195.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,AMD,Windows 10,2.3,0,500,0,0,61425.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7440HQ 2.8GHz,8,Intel,Windows 10,1.9,256,0,0,0,144585.0
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,4.42,128,1000,0,0,316340.85
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.0,0,500,0,0,90300.0
+Asus,Notebook,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.0,256,1000,0,0,136395.0
+Others,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Celeron Quad Core N3450 1.1GHz,4,Intel,Windows 10,1.2,32,0,0,0,38745.0
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.3,128,1000,0,0,173145.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8,Nvidia,Windows 10,1.93,256,0,0,0,143745.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,2.2,256,0,0,0,83728.05
+HP,Notebook,15.6,Full HD 1920x1080,Intel Pentium Quad Core N3710 1.6GHz,4,Intel,Windows 10,1.86,256,0,0,0,41893.950000000004
+HP,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,Nvidia,Windows 10,2.62,0,1000,0,0,188895.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,1.87,256,0,0,0,90195.0
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.2,256,0,0,0,146895.0
+Dell,Notebook,14.0,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.6,128,0,0,0,77266.35
+HP,Ultrabook,13.3,IPS Panel Quad HD+ 3200x1800,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.34,256,0,0,0,120225.0
+Acer,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Linux,2.4,0,1000,0,0,83790.0
+Asus,Notebook,15.6,1366x768,AMD E-Series 7110 1.8GHz,4,AMD,Windows 10,2.0,0,500,0,0,36645.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.1,128,0,0,0,74077.5
+Lenovo,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.87,0,500,0,0,82425.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,No OS,2.15,0,1000,0,0,48546.75
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.86,0,500,0,0,41685.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.99,512,0,0,0,181545.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.2,128,0,0,0,52395.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.9,256,0,0,0,117283.95
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,4.42,256,1000,0,0,283395.0
+HP,Notebook,17.3,1600x900,Intel Core i3 6006U 2GHz,8,Intel,Windows 10,2.65,0,1000,0,0,57135.75
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.63,0,1000,0,0,134400.0
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Linux,2.0,0,500,0,0,23520.0
+Others,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Atom x5-Z8350 1.44GHz,4,Intel,Windows 10,1.35,0,0,32,0,26775.0
+Lenovo,Notebook,17.3,1600x900,Intel Core i7 7500U 2.7GHz,6,Nvidia,Windows 10,2.8,128,1000,0,0,99645.0
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,AMD A10-Series A10-9620P 2.5GHz,6,AMD,Windows 10,1.91,128,0,0,0,59734.5
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,AMD,Windows 10,2.18,0,1000,0,0,64879.5
+Acer,2 in 1 Convertible,11.6,IPS Panel Full HD / Touchscreen 1920x1080,others,4,Intel,Windows 10,1.25,0,0,32,0,36645.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7130U 2.7GHz,4,Intel,Windows 10,2.05,128,0,0,0,66150.0
+HP,Ultrabook,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core M 6Y75 1.2GHz,16,Intel,Windows 10,1.16,512,0,0,0,206325.0
+Lenovo,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,3.4,256,0,0,0,314895.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.5,128,1000,0,0,88095.0
+Dell,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.21,128,0,0,0,167895.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7300U 2.6GHz,4,Intel,Windows 10,1.93,0,500,0,0,100695.0
+Others,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.2,0,1000,0,0,77595.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Windows 10,2.2,0,500,0,0,36120.0
+Lenovo,Notebook,14.0,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.02,0,500,0,0,103950.0
+HP,Workstation,17.3,1600x900,Intel Core i5 7440HQ 2.8GHz,8,Nvidia,Windows 10,3.14,0,500,0,0,195403.95
+HP,Notebook,14.0,1366x768,Intel Pentium Quad Core N3710 1.6GHz,8,Intel,Windows 10,1.94,0,2000,0,0,40845.0
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,AMD A9-Series A9-9420 3GHz,6,AMD,Windows 10,1.95,256,0,0,0,68145.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.3,256,0,0,0,87150.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,Intel,Windows 10,2.05,0,500,0,0,71925.0
+Others,Notebook,14.0,Full HD 1920x1080,Intel Atom x5-Z8350 1.44GHz,4,Intel,Windows 10,1.4,32,0,0,0,26145.0
+Others,Ultrabook,14.0,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.24,512,0,0,0,195825.0
+Lenovo,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,32,Nvidia,Windows 10,4.6,256,1000,0,0,279615.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7820HK 2.9GHz,16,Nvidia,Windows 10,4.14,512,1000,0,0,286545.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,AMD,Linux,2.2,256,0,0,0,78646.05
+Others,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Celeron Quad Core N3450 1.1GHz,4,Intel,Windows 10,1.45,32,0,0,0,40845.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7300U 2.6GHz,8,Intel,Windows 10,1.9,0,500,0,0,105894.59999999999
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,1.49,128,0,0,0,75495.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,16,Nvidia,Windows 10,1.93,256,0,0,0,161425.95
+Dell,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Chrome OS,1.26,0,0,16,0,30975.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,16,Nvidia,Windows 10,4.5,128,1000,0,0,246645.0
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,3.78,256,1000,0,0,157290.0
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,12,Intel,Windows 10,1.4,256,0,0,0,175665.0
+Lenovo,Notebook,15.6,Touchscreen 1366x768,Intel Core i7 8550U 1.8GHz,12,Intel,Windows 10,2.2,0,1000,0,0,63945.0
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.73,128,1000,0,0,185850.0
+Asus,2 in 1 Convertible,15.6,Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.2,0,1000,0,0,77595.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,12,AMD,Windows 10,2.2,512,0,0,0,99645.0
+Dell,2 in 1 Convertible,11.6,Touchscreen 1366x768,others,4,Intel,Windows 10,1.39,128,0,0,0,63315.0
+Others,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.5,128,1000,0,0,178395.0
+Lenovo,Notebook,17.3,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,No OS,2.8,0,500,0,0,55545.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6100U 2.3GHz,8,Intel,Windows 10,2.29,0,1000,0,0,48195.0
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.37,512,0,0,0,212625.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Intel,Windows 10,1.7,256,0,0,0,154770.0
+Dell,2 in 1 Convertible,12.5,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.34,256,0,0,0,175350.0
+Dell,Workstation,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.06,256,0,0,0,185115.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.84,256,0,0,0,127995.0
+HP,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.1,0,500,0,0,70190.40000000001
+Acer,Notebook,14.0,Full HD 1920x1080,Intel Celeron Quad Core N3450 1.1GHz,4,Intel,Windows 10,1.6,0,0,32,0,34545.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,16,Nvidia,Windows 10,4.14,128,1000,0,0,230895.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,AMD,Linux,2.18,0,1000,0,0,48825.0
+MSI,Gaming,15.6,4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,1.8,256,2000,0,0,241395.0
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,2.2,256,0,0,0,146895.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6,Intel,Windows 10,2.4,0,1000,0,0,59220.0
+Lenovo,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Intel,Windows 10,2.0,256,0,0,0,136395.0
+Acer,Notebook,14.0,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4,Intel,Windows 10,1.6,0,0,128,0,36645.0
+Lenovo,Notebook,15.6,IPS Panel 4K Ultra HD 3840x2160,others,32,Nvidia,Windows 10,2.5,1000,0,0,0,514395.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,2.59,0,1000,0,0,92296.05
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,Intel,Linux,2.18,0,1000,0,0,46609.5
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,Intel,Linux,2.25,0,1000,0,0,37695.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7300U 2.6GHz,4,Intel,Linux,1.93,0,500,0,0,91245.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,3.0,128,1000,0,0,122640.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,AMD,Linux,2.18,128,0,0,0,59745.0
+HP,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.84,512,0,0,0,145845.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.94,256,1000,0,0,238125.30000000002
+Acer,2 in 1 Convertible,11.6,IPS Panel Touchscreen 1366x768,Intel Celeron Quad Core N3160 1.6GHz,4,Intel,Chrome OS,1.25,0,0,32,0,39795.0
+HP,Notebook,14.0,1366x768,Intel Core i5 7300U 2.6GHz,8,Intel,Windows 10,2.31,256,0,0,0,118020.0
+Lenovo,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 7,1.65,256,0,0,0,153825.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,AMD,Windows 10,2.2,0,1000,0,0,81480.0
+Others,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.2,256,0,0,0,83895.0
+HP,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 7,1.88,0,500,0,0,97860.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.2,0,1000,0,0,94395.0
+Others,Notebook,14.0,Full HD 1920x1080,Intel Atom x5-Z8350 1.44GHz,2,Intel,Windows 10,1.4,0,0,32,0,25095.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,No OS,2.2,128,0,0,0,49140.0
+Asus,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,6,Intel,Windows 10,1.5,0,1000,0,0,67096.05
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.0,256,0,0,0,191100.0
+Asus,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.1,512,0,0,0,199500.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.62,256,1000,0,0,155295.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,Intel,Windows 10,1.8,256,0,0,0,87045.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Nvidia,Windows 10,2.2,0,1000,0,0,60795.0
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,8,Intel,Windows 10,2.0,0,1000,0,0,41895.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,1.99,0,1000,0,0,95195.1
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.23,256,0,0,0,196245.0
+Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2,Intel,Windows 10,1.42,0,0,32,0,26145.0
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.37,256,0,0,0,184529.1
+Dell,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.06,1000,0,0,0,251895.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.5,128,1000,0,0,116445.0
+HP,Notebook,17.0,1600x900,AMD A9-Series 9420 3GHz,8,AMD,Windows 10,2.6,0,1000,0,0,54694.5
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.14,512,0,0,0,257250.0
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,No OS,2.5,0,1000,0,0,122745.0
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.4,0,500,0,0,47250.0
+Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Windows 10,1.43,0,0,32,0,28770.0
+Acer,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.8,256,0,0,0,96495.0
+Others,Gaming,14.0,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,1.95,256,0,0,0,272895.0
+Others,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.2,256,0,0,0,127365.0
+Lenovo,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.36,256,0,0,0,166320.0
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,32,Nvidia,Windows 10,3.8,512,0,0,0,293895.0
+Acer,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Linux,2.4,0,1000,0,0,74445.0
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.2,256,0,0,0,152239.5
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.2,128,1000,0,0,125139.0
+HP,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,No OS,1.86,0,500,0,0,38314.5
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.0,0,500,0,0,111720.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,AMD,Windows 10,2.2,256,0,0,0,96495.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,AMD,Windows 10,2.2,256,2000,0,0,119175.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,3.31,128,1000,0,0,125580.0
+Dell,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,32,Nvidia,Windows 10,4.42,512,1000,0,0,330473.85
+Dell,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8,Intel,Windows 10,1.56,256,0,0,0,129045.0
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,2.2,0,500,0,0,43995.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,2.2,0,500,0,0,56175.0
+HP,Notebook,15.6,1920x1080,Intel Core i3 6006U 2GHz,6,AMD,Windows 10,2.04,0,1000,0,0,56595.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.7,128,1000,0,0,156110.85
+Others,Notebook,15.6,1366x768,others,4,Intel,Windows 10,2.1,128,0,0,0,52290.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.06,0,1000,0,0,100275.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,AMD,Windows 10,2.1,0,1000,0,0,78225.0
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.0,256,0,0,0,132090.0
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Linux,2.1,128,0,0,0,43260.0
+Others,Ultrabook,13.5,Touchscreen 2256x1504,Intel Core i7 7600U 2.8GHz,8,Intel,Windows 10 S,1.252,256,0,0,0,196124.25
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,1.9,128,1000,0,0,85884.75
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.3,256,0,0,0,108570.0
+Lenovo,Notebook,15.6,1366x768,others,4,AMD,Windows 10,2.2,128,0,0,0,36645.0
+HP,2 in 1 Convertible,14.0,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,4,Nvidia,Windows 10,1.63,128,0,0,0,73395.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.4,256,1000,0,0,135870.0
+Asus,Ultrabook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.1,256,0,0,0,119175.0
+HP,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3350 1.1GHz,8,Intel,Chrome OS,1.4,0,0,64,0,51975.0
+Others,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.09,512,0,0,0,241395.0
+Acer,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,16,Nvidia,Windows 10,2.5,256,0,0,0,136395.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.2,256,0,0,0,104779.5
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.86,128,0,0,0,43995.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,16,Nvidia,Windows 10,3.21,128,1000,0,0,215355.0
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,AMD,Windows 10,2.5,256,0,0,0,73395.0
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,8,Intel,Windows 10,1.19,512,0,0,0,157395.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7820HK 2.9GHz,16,Nvidia,Windows 10,3.49,256,1000,0,0,295443.75
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,AMD,Windows 10,1.86,0,500,0,0,64324.05
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,AMD,Windows 10,2.2,0,1000,0,0,57295.35
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,AMD A10-Series 9600P 2.4GHz,6,AMD,Windows 10,2.65,0,2000,0,0,59745.0
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core 3855U 1.6GHz,4,Intel,Windows 10,2.1,0,500,0,0,33390.0
+Acer,Notebook,14.0,1366x768,Intel Celeron Dual Core 3855U 1.6GHz,4,Intel,Chrome OS,1.45,0,0,32,0,39375.0
+Lenovo,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.7,256,0,0,0,73395.0
+HP,Workstation,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,3.14,0,500,0,0,200338.95
+Lenovo,2 in 1 Convertible,14.0,Touchscreen 2560x1440,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.42,256,0,0,0,271950.0
+Others,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.5,256,0,0,0,102165.0
+Acer,Netbook,11.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,4,Intel,Windows 10,1.4,0,0,32,0,28245.0
+Lenovo,2 in 1 Convertible,14.0,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.38,512,0,0,0,183645.0
+Asus,2 in 1 Convertible,12.5,Full HD / Touchscreen 1920x1080,others,4,Intel,Chrome OS,1.2,0,0,64,0,70245.0
+Others,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,16,Intel,Windows 10,1.36,512,0,0,0,197085.0
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,4,AMD,Windows 10,2.1,0,500,0,0,72345.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.56,0,1000,0,0,85995.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,others,4,AMD,Windows 10,2.2,256,0,0,0,41895.0
+Lenovo,Notebook,15.6,1366x768,AMD A12-Series 9720P 3.6GHz,8,AMD,Windows 10,2.2,0,1000,0,0,45045.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.1,0,2000,0,0,65252.25000000001
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,No OS,1.9,0,500,0,0,47250.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.18,256,0,0,0,83475.0
+Acer,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.6,256,0,0,0,104895.0
+Lenovo,Workstation,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16,Nvidia,Windows 7,2.18,512,0,0,0,194775.0
+Lenovo,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,8,Intel,Windows 10,1.8,256,0,0,0,125055.0
+HP,Notebook,17.3,IPS Panel Full HD 1920x1080,AMD A10-Series 9620P 2.5GHz,6,AMD,Windows 10,2.71,0,2000,0,0,68776.05
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.5,128,1000,0,0,131145.0
+Dell,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7440HQ 2.8GHz,8,Nvidia,Linux,1.64,256,0,0,0,114345.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Linux,1.98,0,1000,0,0,76230.0
+Asus,Notebook,14.0,Full HD 1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.5,0,0,32,0,31290.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,16,Intel,Windows 10,1.93,512,0,0,0,149799.30000000002
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,1.87,256,0,0,0,89992.35
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8,Intel,Windows 10,1.9,256,0,0,0,123795.0
+Lenovo,Notebook,15.6,1366x768,others,4,AMD,Windows 10,2.19,0,500,0,0,31290.0
+Others,Notebook,14.0,IPS Panel Full HD 1920x1200,others,4,Intel,Windows 10,1.4,0,32,0,0,27825.0
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.63,256,0,0,0,126000.0
+Lenovo,Ultrabook,14.0,IPS Panel Quad HD+ 2560x1440,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.17,512,0,0,0,177097.2
+HP,2 in 1 Convertible,13.3,IPS Panel Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.58,256,0,0,0,87843.0
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.32,256,0,0,0,157395.0
+Dell,Gaming,17.3,4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,32,Nvidia,Windows 10,4.36,1000,1000,0,0,384237.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.7,128,1000,0,0,141590.4
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,No OS,1.9,0,1000,0,0,51439.5
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,8,AMD,Windows 10,2.2,128,1000,0,0,75495.0
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,1.71,0,1000,0,0,68145.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,AMD,Linux,2.32,0,1000,0,0,61899.6
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9420 3GHz,4,AMD,Windows 10,2.1,0,1000,0,0,51345.0
+Acer,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,4.2,128,1000,0,0,203175.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,12,Intel,Windows 10,2.25,0,1000,0,0,68145.0
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series A9-9420 3GHz,6,AMD,Windows 10,2.1,128,1000,0,0,68250.0
+Acer,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.4,0,500,0,0,58695.0
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.44,256,0,0,0,100800.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,4,Intel,Windows 10,1.85,0,1000,0,0,81795.0
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.6,256,0,0,0,253995.0
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 8250U 1.6GHz,8,Intel,Windows 10,1.55,0,1000,0,0,69195.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,1.8,256,1000,0,0,219920.4
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.4,0,500,0,0,43134.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.0,128,1000,0,0,126735.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,8,Intel,Windows 10,2.0,256,0,0,0,69825.0
+Others,Notebook,14.0,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.25,256,0,0,0,161175.0
+Lenovo,2 in 1 Convertible,14.0,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.7,256,0,0,0,104895.0
+Lenovo,Workstation,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7600U 2.8GHz,16,Nvidia,Windows 10,2.5,1000,0,0,0,346395.0
+Acer,Notebook,14.0,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2,Intel,Chrome OS,1.68,0,0,32,0,34650.0
+Others,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,0.81,256,0,0,0,173145.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,8,Intel,Windows 10,1.86,256,0,0,0,56595.0
+Dell,Notebook,14.0,1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.6,256,0,0,0,118304.55
+HP,Workstation,17.3,IPS Panel Full HD 1920x1080,others,16,Nvidia,Windows 7,3.0,256,0,0,0,460845.0
+Lenovo,Netbook,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Windows 10,1.4,128,0,0,0,49875.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8,Intel,Windows 10,1.84,256,0,0,0,199500.0
+Asus,Notebook,15.6,1366x768,Intel Core i5 6300HQ 2.3GHz,4,Nvidia,No OS,2.45,0,1000,0,0,60795.0
+Lenovo,Ultrabook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.7,180,0,0,0,115080.0
+Asus,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,4,Intel,Windows 10,2.37,256,0,0,0,89239.5
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,others,8,Intel,Windows 10,1.3,256,0,0,0,125895.0
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.2,128,1000,0,0,115395.0
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 7,2.59,256,0,0,0,163905.0
+Dell,Gaming,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,4.42,256,1000,0,0,301243.94999999995
+Acer,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.1,256,0,0,0,62895.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.5,128,1000,0,0,110040.0
+Dell,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,16,Intel,Windows 10,1.18,256,0,0,0,195195.0
+Others,Ultrabook,12.3,Touchscreen 2400x1600,Intel Core i5 7Y57 1.2GHz,8,Intel,Chrome OS,1.1,256,0,0,0,163695.0
+Asus,Ultrabook,13.3,IPS Panel Quad HD+ 3200x1800,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.2,256,0,0,0,118545.0
+Dell,Notebook,13.3,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.65,0,500,0,0,89145.0
+Acer,Notebook,13.3,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.6,128,0,0,0,68775.0
+Asus,Notebook,17.3,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Nvidia,Windows 10,2.8,0,1000,0,0,49385.7
+Dell,Gaming,15.6,IPS Panel Touchscreen / 4K Ultra HD 3840x2160,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,2.72,128,1000,0,0,115395.0
+Others,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.31,256,0,0,0,167895.0
+Acer,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Linux,2.1,0,1000,0,0,31290.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,AMD,Windows 10,2.3,256,0,0,0,124033.34999999999
+Others,2 in 1 Convertible,15.0,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16,AMD,Windows 10,1.71,256,0,0,0,188895.0
+Others,Notebook,14.0,IPS Panel 1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.75,128,0,0,0,107100.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.62,0,1000,0,0,115395.0
+HP,Ultrabook,12.5,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.26,256,0,0,0,130620.0
+Asus,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12,Nvidia,Windows 10,2.3,0,2000,0,0,88095.0
+Lenovo,Notebook,15.6,4K Ultra HD 3840x2160,Intel Core i7 6820HQ 2.7GHz,16,Nvidia,Windows 7,2.5,512,0,0,0,248850.0
+Acer,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,1.8,128,0,0,0,66780.0
+Others,Gaming,14.0,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,1.95,512,0,0,0,304395.0
+Asus,Notebook,15.6,1920x1080,others,8,Intel,Windows 10,2.0,128,0,0,0,61099.5
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,32,Nvidia,Windows 10,4.42,1000,1000,0,0,376824.0
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,4.3,256,1000,0,0,246750.0
+Others,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,16,Nvidia,Windows 10,1.47,512,0,0,0,185220.0
+Lenovo,Notebook,15.6,1366x768,others,8,Intel,No OS,2.2,0,1000,0,0,34545.0
+Lenovo,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.7,512,0,0,0,241395.0
+MSI,Gaming,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,1.6,256,1000,0,0,198555.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.2,128,1000,0,0,114345.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,4,Nvidia,Windows 10,2.4,0,1000,0,0,104895.0
+Acer,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,4.2,256,1000,0,0,241395.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.62,256,0,0,0,103425.0
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.24,128,1000,0,0,140595.0
+Others,Notebook,14.0,1920x1080,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.22,0,0,32,0,21304.5
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.37,512,0,0,0,206850.0
+Lenovo,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,2.08,256,0,0,0,100695.0
+Apple,Ultrabook,12.0,IPS Panel Retina Display 2304x1440,Intel Core M 1.2GHz,8,Intel,Mac OS X,0.92,0,0,512,0,122325.0
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Touchscreen 2560x1440,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.42,256,0,0,0,244650.0
+Asus,Notebook,14.0,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.63,0,0,32,0,31395.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.95,128,0,0,0,85050.0
+Lenovo,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.38,256,0,0,0,141645.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,8,AMD,Windows 10,2.0,256,0,0,0,77595.0
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,3.14,256,0,0,0,216814.5
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.37,256,0,0,0,115395.0
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.29,256,0,0,0,157395.0
+Dell,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.06,256,0,0,0,183645.0
+Dell,Netbook,11.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Windows 10,1.63,128,0,0,0,78120.0
+HP,Netbook,12.5,1366x768,Intel Core i5 7300U 2.6GHz,8,Intel,Windows 10,1.26,256,0,0,0,145845.0
+Others,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,2.1,0,500,0,0,81900.0
+HP,Notebook,15.6,1366x768,others,8,AMD,Windows 10,2.04,0,2000,0,0,66045.0
+Dell,Gaming,15.6,4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.62,512,0,0,0,176295.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Nvidia,Windows 10,2.4,0,1000,0,0,63945.0
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,AMD,Windows 10,3.74,0,1000,0,0,183645.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.9,512,1000,0,0,253575.0
+Others,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,0.81,256,0,0,0,157395.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,1.98,0,1000,0,0,100905.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,2.18,256,0,0,0,82930.04999999999
+Lenovo,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.32,256,0,0,0,195195.0
+Others,Ultrabook,12.5,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,others,16,Intel,Windows 10,1.29,512,0,0,0,188895.0
+HP,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Chrome OS,1.23,0,0,16,0,40425.0
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,4.36,128,1000,0,0,263027.1
+Dell,Notebook,14.0,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.76,0,500,0,0,79275.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.1,0,500,0,0,51439.5
+Others,Ultrabook,14.0,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.25,128,0,0,0,114450.0
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.13,512,0,0,0,262395.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.4,256,0,0,0,125895.0
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.13,0,0,256,0,196875.0
+Others,Notebook,14.0,1366x768,others,4,Intel,Windows 10,1.75,128,0,0,0,52395.0
+Asus,2 in 1 Convertible,13.3,Touchscreen / Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.1,256,0,0,0,142590.0
+Dell,Notebook,14.0,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,1.76,0,500,0,0,61425.0
+Acer,Netbook,11.6,IPS Panel 1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Chrome OS,1.35,0,0,32,0,37275.0
+Acer,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,8,Intel,Windows 10,1.5,128,0,0,0,64995.0
+Others,Gaming,17.3,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7820HK 2.9GHz,32,Nvidia,Windows 10,3.49,512,0,0,0,577395.0
+Lenovo,Ultrabook,14.0,IPS Panel Quad HD+ 2560x1440,Intel Core i7 6600U 2.6GHz,16,Intel,Windows 10,1.1,512,0,0,0,220395.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Nvidia,Linux,2.1,0,1000,0,0,54495.0
+Lenovo,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.7,256,0,0,0,124530.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8,Intel,Windows 10,1.32,256,0,0,0,173250.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,3.21,256,1000,0,0,291336.15
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.9,256,1000,0,0,253995.0
+Others,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.0,0,500,0,0,70245.0
+Lenovo,Notebook,14.0,1366x768,Intel Celeron Quad Core N3160 1.6GHz,4,Intel,Chrome OS,1.5,0,0,16,0,34125.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.3,0,128,0,0,61950.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,2.73,512,1000,0,0,188895.0
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,32,Nvidia,Windows 10,4.42,512,1000,0,0,322653.45
+HP,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,2.63,0,1000,0,0,95550.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.18,128,0,0,0,74968.95
+HP,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 7,1.54,512,0,0,0,196350.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,4,AMD,Windows 10,2.18,256,0,0,0,77595.0
+HP,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Chrome OS,1.4,0,0,32,0,64575.0
+Asus,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Nvidia,Windows 10,1.45,512,0,0,0,107730.0
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.28,256,0,0,0,239085.0
+HP,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.54,512,0,0,0,154140.0
+HP,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,No OS,1.86,128,0,0,0,31395.0
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.1,128,1000,0,0,199395.0
+Dell,Notebook,17.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,AMD,Linux,2.83,0,1000,0,0,90825.0
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,1.96,256,0,0,0,199815.0
+Asus,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.3,256,0,0,0,82635.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.9,128,0,0,0,99225.0
+Asus,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Windows 10,2.0,0,1000,0,0,47145.0
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7600U 2.8GHz,8,Intel,Windows 10,1.28,256,0,0,0,268695.0
+Dell,Notebook,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.62,0,1000,0,0,68145.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2.0GHz,4,Intel,No OS,2.2,0,1000,0,0,49245.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.3,0,1000,0,0,89319.3
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8,AMD,Windows 10,1.84,256,0,0,0,141645.0
+Others,Notebook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.05,128,0,0,0,134925.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,No OS,2.5,0,1000,0,0,106785.0
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7660U 2.5GHz,16,Intel,Windows 10,1.29,512,0,0,0,235200.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,2.07,0,500,0,0,95550.0
+Others,Ultrabook,13.3,1366x768,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.2,256,0,0,0,114975.0
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.37,256,0,0,0,204750.0
+Acer,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.56,256,0,0,0,94710.0
+Dell,Workstation,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.23,0,1000,0,0,186690.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.38,0,500,0,0,110775.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,AMD,No OS,2.2,0,1000,0,0,50295.0
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,2.0,256,0,0,0,145740.0
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,1.44,180,0,0,0,77175.0
+Others,Ultrabook,15.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,Nvidia,Windows 10,1.23,256,0,0,0,194145.0
+Dell,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8,Intel,Windows 10,1.6,256,0,0,0,177450.0
+Asus,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Linux,2.0,0,1000,0,0,41893.950000000004
+Others,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Nvidia,Windows 10,1.28,256,0,0,0,98175.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Nvidia,Windows 10,2.18,128,1000,0,0,95812.5
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.04,256,0,0,0,88095.0
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.28,256,0,0,0,178500.0
+HP,2 in 1 Convertible,15.6,Touchscreen 1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.3,0,500,0,0,71904.0
+Asus,Notebook,14.1,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.65,0,0,32,0,36540.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Nvidia,Windows 10,2.2,0,1000,0,0,70245.0
+Dell,Notebook,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4,Intel,Windows 10,2.2,0,500,0,0,38745.0
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.28,256,0,0,0,188895.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,AMD,Linux,2.18,0,1000,0,0,47848.5
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,12,Nvidia,Windows 10,2.2,128,1000,0,0,143839.5
+Acer,Netbook,11.6,IPS Panel 1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Chrome OS,1.25,0,0,32,0,31185.0
+Lenovo,Notebook,17.3,1600x900,others,4,AMD,Windows 10,2.8,0,500,0,0,39795.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.95,128,0,0,0,132825.0
+HP,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.42,256,0,0,0,146895.0
+Others,Ultrabook,15.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.17,256,0,0,0,178395.0
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.32,256,0,0,0,188895.0
+MSI,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,2.43,512,2000,0,0,278145.0
+Others,Notebook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.05,256,0,0,0,154875.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Linux,2.62,0,1000,0,0,97545.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.04,0,1000,0,0,94500.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,AMD,Windows 10,2.18,0,1000,0,0,64470.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8,Intel,Windows 10,1.9,0,500,0,0,98175.0
+Dell,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7Y75 1.3GHz,8,Intel,Windows 10,1.24,512,0,0,0,211375.5
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,32,Nvidia,Windows 10,3.58,512,0,0,0,134295.0
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7Y75 1.3GHz,16,Intel,Windows 10,1.22,256,0,0,0,173145.0
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.13,0,0,256,0,215145.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.95,512,0,0,0,206113.95
+Others,Ultrabook,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.08,512,0,0,0,220395.0
+HP,Netbook,12.5,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.26,512,0,0,0,155715.0
+Acer,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Celeron Dual Core 3205U 1.5GHz,4,Intel,Chrome OS,2.2,0,0,16,0,37695.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,8,Nvidia,Windows 10,2.6,128,1000,0,0,82845.0
+Others,Ultrabook,14.0,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,0.98,512,0,0,0,199395.0
+Dell,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7440HQ 2.8GHz,8,Intel,Windows 10,1.6,256,0,0,0,126525.0
+HP,Ultrabook,12.5,4K Ultra HD / Touchscreen 3840x2160,Intel Core M 6Y75 1.2GHz,8,Intel,Windows 10,1.09,240,0,0,0,325500.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,6,Nvidia,Windows 10,2.2,256,0,0,0,82845.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.04,256,0,0,0,106993.95
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.4,0,1000,0,0,52395.0
+Lenovo,Notebook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.44,128,0,0,0,92505.0
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.49,256,0,0,0,100800.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.7,256,1000,0,0,167895.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.6,128,1000,0,0,141645.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.2,128,1000,0,0,117590.55
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,AMD,Windows 10,2.18,0,1000,0,0,71923.95
+HP,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,AMD,Windows 10,1.84,256,0,0,0,136183.95
+HP,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.39,256,0,0,0,120645.0
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,16,Nvidia,Windows 10,2.4,256,0,0,0,207375.0
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.37,512,0,0,0,191625.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.95,0,500,0,0,76639.5
+Lenovo,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.36,256,0,0,0,173250.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,2.31,256,0,0,0,122325.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.18,0,1000,0,0,74346.29999999999
+HP,Notebook,14.0,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.95,0,500,0,0,120645.0
+Lenovo,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Windows 10,2.2,0,1000,0,0,32445.0
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.26,0,500,0,0,165795.0
+HP,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,No OS,1.86,0,1000,0,0,30334.499999999996
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,others,16,Intel,Windows 10,1.3,1000,0,0,0,188895.0
+Others,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.47,128,0,0,0,116025.0
+HP,Netbook,12.5,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.26,256,0,0,0,175245.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,Intel,Windows 10,2.18,0,1000,0,0,58653.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.2,128,1000,0,0,125895.0
+Dell,Ultrabook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.36,256,0,0,0,172095.0
+Dell,Gaming,17.3,2560x1440,Intel Core i7 6820HK 2.7GHz,16,Nvidia,Windows 10,4.36,512,1000,0,0,289590.0
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,8,Nvidia,Windows 10,2.75,128,1000,0,0,146895.0
+Asus,Notebook,17.3,1600x900,Intel Pentium Quad Core N3710 1.6GHz,4,Nvidia,Windows 10,2.8,0,1000,0,0,55650.0
+Acer,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.23,0,500,0,0,64995.0
+Others,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,2.2,256,0,0,0,117495.0
+Lenovo,2 in 1 Convertible,11.3,IPS Panel Full HD / Touchscreen 1920x1080,others,8,Intel,Windows 10,1.1,256,0,0,0,136395.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,others,16,AMD,Windows 10,2.5,512,1000,0,0,104895.0
+Dell,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.36,256,0,0,0,154581.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,No OS,2.2,0,1000,0,0,71925.0
+Dell,Notebook,17.3,1600x900,Intel Core i3 6006U 2.0GHz,4,AMD,Windows 10,2.36,0,1000,0,0,69195.0
+Acer,Notebook,14.0,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Chrome OS,1.68,0,0,32,0,36645.0
+HP,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,8,Nvidia,Windows 10,2.0,8,0,0,0,236145.0
+Dell,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 7600U 2.8GHz,8,Intel,Windows 10,1.36,256,0,0,0,186375.0
+Others,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 7,1.2,256,0,0,0,153300.0
+Asus,2 in 1 Convertible,12.5,Full HD 1920x1080,others,8,Intel,Chrome OS,1.2,0,0,64,0,121695.0
+Lenovo,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8,Intel,Windows 10,1.7,256,0,0,0,156343.95
+Dell,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,4.36,512,1000,0,0,331170.0
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7Y54 1.2GHz,8,Intel,Windows 10,1.24,256,0,0,0,199395.0
+HP,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Windows 10,1.45,256,0,0,0,81375.0
+Dell,Ultrabook,13.3,Quad HD+ 3200x1800,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.3,256,0,0,0,133140.0
+Acer,2 in 1 Convertible,11.6,IPS Panel Touchscreen 1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Chrome OS,1.25,0,0,32,0,40845.0
+Others,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8,Intel,Windows 10,1.2,256,0,0,0,161175.0
+Lenovo,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel Core i5 7300U 2.6GHz,8,Intel,Windows 10,1.36,256,0,0,0,184800.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,12,Nvidia,Windows 10,2.4,128,1000,0,0,105945.0
+Others,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.1,512,0,0,0,187950.0
+HP,Notebook,15.6,1366x768,others,8,Nvidia,Windows 10,2.04,0,1000,0,0,88882.5
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,AMD,Linux,2.25,0,1000,0,0,48890.1
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.9,0,500,0,0,86625.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.04,0,500,0,0,71925.0
+Dell,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,32,Nvidia,Windows 10,4.42,256,1000,0,0,330645.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,6,Nvidia,Windows 10,2.4,256,0,0,0,72975.0
+Dell,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7Y75 1.3GHz,16,Intel,Windows 10,1.22,512,0,0,0,199395.0
+Dell,Ultrabook,14.0,Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,8,Intel,Windows 10,1.5,256,0,0,0,206112.9
+Dell,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,32,Nvidia,Windows 10,4.42,256,1000,0,0,294000.0
+Others,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.95,256,0,0,0,123900.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.73,256,1000,0,0,215239.5
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,others,8,Nvidia,Windows 10,2.04,128,1000,0,0,102795.0
+Lenovo,Notebook,14.0,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 7,1.7,0,0,0,508,105210.0
+Asus,2 in 1 Convertible,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel Core i7 7500U 2.7GHz,16,Nvidia,Windows 10,2.3,512,2000,0,0,188895.0
+HP,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,6,Intel,Windows 10,2.04,0,1000,0,0,60795.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.99,256,1000,0,0,183645.0
+Dell,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12,Intel,Windows 10,2.19,512,0,0,0,136395.0
+Others,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 7,1.2,128,0,0,0,125475.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,6,AMD,Windows 10,2.2,256,0,0,0,57645.0
+Others,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,2.3,256,0,0,0,68145.0
+Others,Notebook,14.0,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.75,0,500,0,0,96075.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,AMD,Windows 10,2.25,0,500,0,0,62895.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.04,0,1000,0,0,84630.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.5,128,1000,0,0,124845.0
+Dell,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8,AMD,Windows 10,2.36,0,1000,0,0,78645.0
+Dell,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.6,128,0,0,0,117495.0
+HP,Netbook,12.5,Full HD 1920x1080,Intel Core M 6Y75 1.2GHz,8,Intel,Windows 10,0.97,512,0,0,0,200340.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,AMD,Windows 10,2.1,128,1000,0,0,52395.0
+Lenovo,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,No OS,1.9,128,0,0,0,28415.100000000002
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,2.3,256,0,0,0,141645.0
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.68,256,0,0,0,93345.0
+Asus,Notebook,13.3,Quad HD+ 3200x1800,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.4,256,0,0,0,120750.0
+HP,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.11,256,0,0,0,141645.0
+Acer,Notebook,15.6,1366x768,Intel Pentium Quad Core N4200 1.1GHz,4,Intel,Windows 10,2.4,0,500,0,0,39900.0
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.5,256,1000,0,0,188895.0
+HP,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.48,512,0,0,0,219345.0
+Acer,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.7,128,1000,0,0,132300.0
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.34,256,0,0,0,124845.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.18,128,0,0,0,57435.0
+HP,Notebook,14.0,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.64,0,500,0,0,81795.0
+Others,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.2,128,0,0,0,125475.0
+HP,Notebook,14.0,1366x768,Intel Core i5 6300U 2.4GHz,4,Intel,Windows 10,1.48,256,0,0,0,115498.95
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.95,256,0,0,0,126525.0
+HP,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8,Intel,Windows 7,1.43,256,0,0,0,152145.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,1.64,256,0,0,0,110172.3
+HP,Notebook,14.0,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,1.64,0,500,0,0,71820.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.65,0,0,0,1,99645.0
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.26,0,500,0,0,161595.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.48,256,0,0,0,166950.0
+HP,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.54,256,0,0,0,198157.05000000002
+HP,Notebook,13.3,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,1.49,0,500,0,0,84000.0
+Others,Notebook,13.3,1366x768,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.5,256,0,0,0,127050.0
+HP,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.04,256,0,0,0,80848.95
+Lenovo,Notebook,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 6820HQ 2.7GHz,16,Nvidia,Windows 7,2.4,512,0,0,0,311640.0
+Others,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.47,256,0,0,0,156450.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.43,256,0,0,0,234045.0
+Dell,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i3 6100U 2.3GHz,4,Intel,Windows 10,2.08,0,1000,0,0,83578.95
+Others,Ultrabook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.2,256,0,0,0,166950.0
+HP,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.11,256,0,0,0,120645.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,1.64,256,0,0,0,124470.15000000001
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8,Intel,Windows 10,2.09,0,500,0,0,109876.20000000001
+HP,Ultrabook,12.5,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.26,256,0,0,0,163695.0
+HP,Notebook,14.0,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.31,0,500,0,0,124845.0
+HP,Notebook,14.0,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.95,0,500,0,0,111300.0
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.29,256,0,0,0,170520.0
+HP,Notebook,17.3,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,2.63,256,0,0,0,113400.0
+HP,Notebook,14.0,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.64,256,0,0,0,102165.0
+Acer,Notebook,15.6,1366x768,AMD A9-Series 9420 3GHz,6,AMD,Windows 10,2.1,0,1000,0,0,42945.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.7,128,1000,0,0,125139.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 7,1.95,256,0,0,0,125475.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.84,256,0,0,0,129043.95
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.26,256,0,0,0,141645.0
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.04,0,500,0,0,77910.0
+Others,Ultrabook,14.0,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8,Intel,Windows 10,1.47,256,0,0,0,181125.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8,Intel,Windows 7,2.09,256,0,0,0,111609.75
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.64,256,0,0,0,106103.55
+Lenovo,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4,Intel,Windows 10,1.8,256,0,0,0,88935.0
+Others,Notebook,14.0,1366x768,Intel Atom X5-Z8350 1.44GHz,2,Intel,Windows 10,1.45,0,0,32,0,22134.0
+Others,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16,Nvidia,Windows 10,2.4,256,0,0,0,149625.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,2.3,256,0,0,0,110207.99999999999
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.54,0,500,0,0,105000.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6300U 2.4GHz,8,Intel,Windows 10,1.84,256,500,0,0,220850.7
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 7,1.43,256,0,0,0,154245.0
+MSI,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,16,Nvidia,Windows 10,3.78,256,1000,0,0,162292.2
+Lenovo,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,4.6,128,1000,0,0,240448.94999999998
+Asus,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Chrome OS,1.2,0,0,16,0,30229.499999999996
+Lenovo,Notebook,14.0,IPS Panel 2560x1440,Intel Core i7 6600U 2.6GHz,16,Intel,Windows 7,1.1,256,0,0,0,275100.0
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,1.91,0,1000,0,0,102795.0
+Dell,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,others,8,Intel,Windows 10,2.3,256,0,0,0,114870.0
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.04,256,0,0,0,102795.0
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.2,1000,0,0,0,236670.0
+HP,Notebook,15.6,1366x768,Intel Core i3 6100U 2.3GHz,4,Intel,Windows 10,2.31,0,500,0,0,74040.75
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,No OS,1.96,0,500,0,0,52395.0
+Acer,Notebook,15.6,1366x768,AMD A8-Series 7410 2.2GHz,8,AMD,Windows 10,2.4,0,1000,0,0,47145.0
+Dell,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,12,Intel,Windows 10,1.6,256,0,0,0,136395.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,2.94,256,1000,0,0,190995.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,2.04,256,0,0,0,112350.0
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,No OS,4.0,0,1000,0,0,104790.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,2.25,0,1000,0,0,58695.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,AMD,Windows 10,2.32,0,2000,0,0,103948.95
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,1.8,256,1000,0,0,202545.0
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.29,256,0,0,0,153090.0
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,64,Nvidia,Windows 10,3.58,1000,0,0,0,417375.0
+Dell,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.62,256,0,0,0,83791.05
+Dell,Gaming,15.6,4K Ultra HD 3840x2160,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,3.21,256,1000,0,0,139545.0
+Apple,Ultrabook,12.0,IPS Panel Retina Display 2304x1440,Intel Core M 1.1GHz,8,Intel,Mac OS X,0.92,0,0,256,0,136500.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 6100U 2.3GHz,4,Intel,Windows 10,2.06,0,500,0,0,50607.9
+HP,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,2.31,0,500,0,0,125895.0
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 7,1.26,256,0,0,0,125895.0
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.49,256,0,0,0,114450.0
+Lenovo,Ultrabook,12.5,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.3,256,0,0,0,179916.45
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 6200U 2.3GHz,8,AMD,Windows 10,3.0,0,1,0,0,69195.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,4,Nvidia,Windows 10,2.3,0,1000,0,0,102585.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,3.78,256,1000,0,0,262395.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,2.1,0,500,0,0,56700.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 7,2.31,0,500,0,0,98700.0
+Lenovo,Ultrabook,12.5,IPS Panel Touchscreen 2560x1440,Intel Core M 6Y75 1.2GHz,8,Intel,Windows 10,0.99,512,0,0,0,146895.0
+Lenovo,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,32,Nvidia,Windows 10,4.6,512,0,0,1,340200.0
+Lenovo,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4,Intel,Windows 10,0.69,0,0,64,0,67858.34999999999
+HP,Ultrabook,13.3,IPS Panel 4K Ultra HD 3840x2160,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.3,512,0,0,0,215145.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.18,256,0,0,0,78750.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 7,1.54,0,500,0,0,108253.95
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,AMD,Windows 7,1.9,256,0,0,0,156975.0
+Lenovo,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 7,1.7,180,0,0,0,125895.0
+HP,Notebook,13.3,Quad HD+ 3200x1800,others,4,Intel,Chrome OS,1.29,0,0,32,0,64575.0
+Acer,Notebook,15.6,1366x768,AMD A8-Series 7410 2.2GHz,4,AMD,Windows 10,2.4,0,500,0,0,40635.0
+Dell,Notebook,15.6,1366x768,Intel Pentium Quad Core N3700 1.6GHz,4,Intel,Linux,2.2,0,500,0,0,41316.450000000004
+HP,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,No OS,1.86,0,1000,0,0,36328.950000000004
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.7,256,1000,0,0,167895.0
+Dell,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core i5 8250U 1.6GHz,4,AMD,Windows 10,1.4,256,0,0,0,85926.75
+HP,Netbook,12.5,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 7,2.4,128,0,0,0,167895.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Nvidia,Windows 10,2.4,256,1000,0,0,83895.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,2.36,0,1000,0,0,67074.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.6,256,0,0,0,167895.0
+HP,Notebook,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4,Intel,Windows 10,1.96,0,1000,0,0,52500.0
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,4.3,128,1000,0,0,241395.0
+Dell,Ultrabook,12.5,1366x768,Intel Core i3 6100U 2.3GHz,4,Intel,Windows 7,1.5,0,500,0,0,119190.75000000001
+Dell,Ultrabook,12.5,1366x768,Intel Core i3 6100U 2.3GHz,4,Intel,Windows 7,1.5,128,0,0,0,122531.85
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core 3205U 1.5GHz,4,Intel,Chrome OS,2.2,16,0,0,0,21945.0
+HP,Workstation,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,AMD,Windows 7,3.0,0,1000,0,0,304395.0
+Lenovo,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.4,512,0,0,0,125895.0
+Dell,Ultrabook,12.5,1366x768,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 7,1.5,256,0,0,0,148375.5
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.9,128,1000,0,0,158674.95
+Lenovo,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,2.1,256,0,0,0,91035.0
+HP,Notebook,15.6,Full HD 1920x1080,AMD A6-Series 9220 2.5GHz,4,AMD,Windows 10,2.1,0,1000,0,0,41790.0
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,2.59,128,1000,0,0,140595.0
+HP,Notebook,13.3,Quad HD+ / Touchscreen 3200x1800,others,8,Intel,Windows 10,1.16,256,0,0,0,178395.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,AMD,Windows 7,2.24,0,500,0,0,80760.75
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,Intel,Windows 10,2.1,128,0,0,0,45045.0
+HP,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.16,512,0,0,0,206745.0
+Lenovo,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4,Intel,Android,0.69,0,0,64,0,57645.0
+Dell,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 7560U 2.4GHz,8,Intel,Windows 10,1.23,256,0,0,0,144795.0
+Lenovo,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6820HK 2.7GHz,16,Nvidia,Windows 10,4.6,256,0,0,1,288748.94999999995
+Others,Ultrabook,12.5,Touchscreen / 4K Ultra HD 3840x2160,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.25,256,0,0,0,108045.0
+Others,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.05,512,0,0,0,233730.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,3.52,128,1000,0,0,137811.45
+Others,Notebook,13.3,Full HD 1920x1080,Intel Atom X5-Z8350 1.44GHz,4,Intel,Windows 10,1.35,0,0,32,0,20580.0
+HP,Notebook,13.3,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.16,256,0,0,0,177450.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 7,1.43,256,0,0,0,158865.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Linux,2.09,0,500,0,0,54981.15
+Asus,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.0,0,1000,0,0,45675.0
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.8,256,0,0,0,175245.0
+Lenovo,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel Atom x5-Z8550 1.44GHz,4,Intel,Windows 10,0.69,0,0,64,0,50295.0
+HP,Ultrabook,12.5,1366x768,Intel Core i5 6300U 2.4GHz,8,Intel,Windows 7,1.26,256,0,0,0,198975.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,No OS,2.4,128,1000,0,0,103845.0
+HP,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i5 6300HQ 2.3GHz,8,Nvidia,Windows 10,3.35,128,1000,0,0,118545.0
+HP,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,2.04,0,2000,0,0,66045.0
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6600U 2.6GHz,8,Nvidia,Windows 7,1.8,512,0,0,0,215289.90000000002
+Asus,Notebook,14.0,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,1.5,0,0,32,0,29190.0
+HP,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.84,256,0,0,0,78960.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Nvidia,Windows 10,2.23,0,1000,0,0,64680.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,16,AMD,Windows 10,2.5,0,0,0,1,115395.0
+HP,Workstation,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 7,3.0,256,0,0,0,414687.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,2.5,0,1000,0,0,82320.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 6820HQ 2.7GHz,16,Nvidia,Windows 10,3.78,256,1000,0,0,251895.0
+HP,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 7,1.88,256,0,0,0,228030.59999999998
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,16,Intel,Windows 10,2.8,512,0,0,0,256200.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.4,128,1000,0,0,119994.0
+HP,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel Core i5 6300U 2.4GHz,8,Intel,Windows 10,1.48,256,0,0,0,171045.0
+HP,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 7,2.59,256,0,0,0,234045.0
+HP,2 in 1 Convertible,13.3,Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,8,Intel,Windows 10,1.48,256,0,0,0,188895.0
+HP,Workstation,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 7,2.0,256,0,0,0,199395.0
+HP,Ultrabook,12.5,Full HD 1920x1080,Intel Core i7 6500U 2.50GHz,8,Intel,Windows 7,1.26,256,0,0,0,241179.74999999997
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.18,256,0,0,0,106039.5
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 7,1.88,256,0,0,0,165795.0
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Touchscreen 2560x1440,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.27,256,0,0,0,245595.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,Intel,No OS,1.9,0,1000,0,0,35595.0
+HP,Notebook,15.6,1366x768,AMD E-Series 7110 1.8GHz,4,AMD,Windows 10,1.86,0,500,0,0,31185.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,AMD,No OS,2.32,0,1000,0,0,62895.0
+Dell,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.62,0,1000,0,0,125895.0
+Dell,Notebook,15.6,IPS Panel Touchscreen / 4K Ultra HD 3840x2160,Intel Core i5 6300HQ 2.3GHz,8,Nvidia,Windows 10,2.04,256,0,0,0,236321.4
+HP,Notebook,15.6,Full HD 1920x1080,AMD A6-Series A6-9220 2.5GHz,4,AMD,Windows 10,1.91,256,0,0,0,50283.45
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.7,256,1000,0,0,156744.0
+Lenovo,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,12,Intel,Windows 7,1.4,512,0,0,0,241395.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,AMD,Windows 10,2.5,0,0,0,1,82791.45
+HP,2 in 1 Convertible,13.3,Touchscreen 2560x1440,Intel Core i7 6600U 2.6GHz,8,Intel,Windows 10,1.48,512,0,0,0,214305.0
+Lenovo,Ultrabook,14.0,Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8,Intel,Windows 7,1.7,256,0,0,0,157395.0
+MSI,Gaming,14.0,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,1.7,256,1000,0,0,185745.0
+HP,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.62,0,1000,0,0,94395.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,8,Intel,Windows 10,2.2,0,1000,0,0,48195.0
+HP,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,No OS,2.1,0,500,0,0,50083.950000000004
+Dell,Gaming,15.6,4K Ultra HD 3840x2160,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.62,128,1000,0,0,157290.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.95,256,0,0,0,145950.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Nvidia,Windows 10,2.2,0,1000,0,0,49140.0
+HP,Notebook,14.0,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2,Intel,Windows 10,1.44,0,0,32,0,26145.0
+MSI,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Windows 10,2.2,0,1000,0,0,88095.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.96,256,0,0,0,71295.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i7 8550U 1.8GHz,16,Intel,Windows 10,2.1,512,0,0,0,121695.0
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,4,Intel,Windows 10,2.2,0,500,0,0,38745.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,No OS,2.1,0,500,0,0,41790.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,No OS,2.2,0,1000,0,0,74445.0
+Asus,Notebook,14.0,Full HD 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.0,256,0,0,0,80745.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,4,Intel,Windows 7,2.32,0,0,0,1,86625.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,3.31,512,0,0,0,137025.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,1.91,128,1000,0,0,226103.84999999998
+HP,Notebook,15.6,1366x768,Intel Core i3 6100U 2.3GHz,4,Intel,Windows 10,2.07,0,500,0,0,68250.0
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Touchscreen 2560x1440,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.36,256,0,0,0,171885.0
+Lenovo,Ultrabook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,6,Nvidia,Windows 10,1.54,256,0,0,0,87255.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,8,Nvidia,Linux,1.98,256,0,0,0,93976.05
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 2GHz,4,Intel,Windows 10,2.1,0,500,0,0,34965.0
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,6,Nvidia,Windows 10,2.18,0,1000,0,0,83895.0
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.591,256,1000,0,0,95445.0
+Dell,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,2.09,512,0,0,0,123795.0
+Acer,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,4,Nvidia,Windows 10,2.23,256,0,0,0,72555.0
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i5 6300U 2.4GHz,8,Intel,Linux,1.23,256,0,0,0,115395.0
+Acer,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,4.2,256,1000,0,0,272895.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7300HQ 2.5GHz,8,Nvidia,Windows 10,2.4,0,1000,0,0,85995.0
+Others,2 in 1 Convertible,12.3,IPS Panel Touchscreen 2400x1600,others,4,ARM,Chrome OS,1.15,0,0,32,0,69195.0
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.86,0,500,0,0,50925.0
+Apple,Ultrabook,12.0,IPS Panel Retina Display 2304x1440,Intel Core M 1.1GHz,8,Intel,Mac OS X,0.92,0,0,256,0,122115.0
+Dell,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.6,256,0,0,0,125895.0
+HP,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,12,Nvidia,Windows 10,2.21,128,1000,0,0,139335.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,AMD,No OS,1.9,0,1000,0,0,38640.0
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,4.3,512,1000,0,0,225750.0
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 2GHz,4,Intel,Linux,2.1,0,1000,0,0,28560.0
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.43,256,1000,0,0,215134.5
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,AMD,Windows 10,2.3,128,0,0,0,52395.0
+Lenovo,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,8,Nvidia,No OS,2.2,0,500,0,0,66045.0
+Dell,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel Core i7 8550U 1.8GHz,16,Intel,Windows 10,2.0,512,0,0,0,134925.0
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.2,512,0,0,0,281400.0
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.2,0,1000,0,0,122745.0
+Dell,Notebook,15.6,Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,AMD,Windows 10,2.36,256,0,0,0,93345.0
+HP,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,1.91,256,0,0,0,60795.0
+Lenovo,Notebook,15.6,1366x768,others,4,AMD,Windows 10,2.2,0,500,0,0,31395.0
+Acer,Notebook,17.3,1600x900,Intel Core i3 6006U 2.0GHz,8,Nvidia,Windows 10,3.3,0,1000,0,0,66045.0
+Asus,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.2,256,1000,0,0,257145.0
+Apple,Ultrabook,12.0,IPS Panel Retina Display 2304x1440,Intel Core M 1.2GHz,8,Intel,Mac OS X,0.92,0,0,512,0,134295.0
+Asus,Notebook,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.2,128,1000,0,0,183645.0
+MSI,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,2.43,256,1000,0,0,204643.95
+Dell,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,Windows 10,2.191,256,0,0,0,104895.0
+Asus,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.9,256,1000,0,0,204645.0
+Acer,Netbook,11.6,1366x768,Intel Celeron Dual Core 3205U 1.5GHz,2,Intel,Chrome OS,1.3,32,0,0,0,18270.0
+Acer,Notebook,17.3,1600x900,Intel Core i3 6006U 2GHz,4,Nvidia,Windows 10,3.3,0,1000,0,0,62790.0
+Lenovo,Notebook,17.3,1600x900,Intel Core i5 7200U 2.5GHz,8,Intel,No OS,2.8,0,1000,0,0,56595.0
+Lenovo,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.6,128,1000,0,0,133560.0
+Acer,2 in 1 Convertible,14.0,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 7Y75 1.3GHz,8,Intel,Windows 10,1.2,256,0,0,0,120645.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6600U 2.6GHz,8,Intel,Windows 10,2.3,256,0,0,0,160545.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.2,128,1000,0,0,154991.55
+HP,Notebook,15.6,Full HD 1920x1080,AMD A12-Series 9720P 2.7GHz,6,AMD,Windows 10,2.1,0,1000,0,0,55545.0
+Dell,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,Intel Core i5 6300U 2.4GHz,8,Intel,Windows 7,1.26,256,0,0,0,179903.84999999998
+Dell,2 in 1 Convertible,15.0,Full HD / Touchscreen 1920x1080,Intel Core i3 7100U 2.4GHz,4,Intel,Windows 10,2.08,0,500,0,0,53445.0
+Asus,Notebook,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4,Intel,Windows 10,2.65,0,1000,0,0,32445.0
+Dell,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i7 7500U 2.7GHz,8,Intel,Windows 10,1.29,256,0,0,0,155085.0
+Dell,Notebook,15.6,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Linux,2.18,0,1000,0,0,54795.3
+Lenovo,Gaming,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,2.6,128,1000,0,0,108045.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,8,Nvidia,Windows 10,2.2,128,1000,0,0,120645.0
+Lenovo,Netbook,12.5,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.50GHz,16,Intel,Windows 10,1.3,512,0,0,0,173250.0
+Others,Gaming,14.0,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,1.95,1000,0,0,0,367395.0
+Dell,Notebook,15.6,Touchscreen 1366x768,Intel Core i3 7100U 2.4GHz,8,Intel,Windows 10,2.3,0,1000,0,0,49246.049999999996
+MSI,Gaming,17.3,Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.7,256,1000,0,0,167790.0
+Apple,Ultrabook,11.6,1366x768,Intel Core i5 1.6GHz,4,Intel,Mac OS X,1.08,0,0,256,0,100695.0
+HP,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.1,0,1000,0,0,50190.0
+HP,Ultrabook,14.0,2560x1440,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 7,1.54,256,0,0,0,230809.95
+Dell,Notebook,15.6,1366x768,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 7,2.24,0,500,0,0,77385.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.3,128,1000,0,0,122745.0
+Lenovo,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel Core i7 7500U 2.7GHz,16,Intel,Windows 10,1.4,512,0,0,0,157395.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,AMD A12-Series 9720P 3.6GHz,6,AMD,Windows 10,2.2,256,0,0,0,62744.850000000006
+Asus,Ultrabook,13.3,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,Intel,Windows 10,1.45,256,0,0,0,134400.0
+Acer,Notebook,15.6,1366x768,Intel Core i3 6006U 2.0GHz,4,Intel,Linux,2.4,0,500,0,0,37989.0
+Dell,2 in 1 Convertible,17.3,Full HD / Touchscreen 1920x1080,Intel Core i7 7500U 2.7GHz,16,Nvidia,Windows 10,2.77,512,0,0,0,188895.0
+HP,Notebook,14.0,Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 7,1.54,256,0,0,0,115498.95
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 7700HQ 2.8GHz,16,Nvidia,Windows 10,2.5,256,1000,0,0,168000.0
+Dell,Notebook,14.0,1366x768,Intel Core i5 7200U 2.5GHz,4,Intel,Windows 10,1.6,0,500,0,0,91875.0
+Asus,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,2.34,256,1000,0,0,244125.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i5 7200U 2.5GHz,8,Intel,No OS,2.3,256,0,0,0,60165.0
+Dell,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel Core i5 7Y54 1.2GHz,8,Intel,Windows 10,1.24,256,0,0,0,190365.0
+Dell,Notebook,15.6,1366x768,Intel Pentium Quad Core N3710 1.6GHz,4,Intel,Linux,2.2,0,500,0,0,34020.0
+HP,Notebook,15.6,1366x768,AMD A6-Series 9220 2.5GHz,4,AMD,Windows 10,1.86,0,500,0,0,41895.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i3 6100U 2.3GHz,6,Nvidia,Windows 10,2.4,128,0,0,0,59745.0
+Lenovo,Notebook,14.0,IPS Panel Full HD 1920x1080,Intel Core i5 6200U 2.3GHz,8,Intel,Windows 10,1.9,256,0,0,0,112560.0
+Dell,Notebook,15.6,1366x768,Intel Pentium Quad Core N3700 1.6GHz,4,Intel,Windows 10,2.2,0,500,0,0,46618.950000000004
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3350 1.1GHz,4,Intel,Windows 10,2.0,0,1000,0,0,35595.0
+Asus,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,16,Nvidia,Windows 10,4.0,128,1000,0,0,199500.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 6006U 2GHz,4,Intel,Windows 10,2.29,0,500,0,0,51450.0
+Lenovo,Notebook,15.6,Full HD 1920x1080,Intel Core i7 6500U 2.5GHz,8,AMD,Windows 7,2.32,0,0,0,1,93975.0
+MSI,Gaming,15.6,Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.4,128,1000,0,0,129045.0
+Lenovo,2 in 1 Convertible,14.0,Full HD / Touchscreen 1920x1080,Intel Core i5 6200U 2.3GHz,4,Intel,Windows 10,1.8,128,0,0,0,87466.05
+Asus,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core M 6Y30 0.9GHz,8,Intel,Windows 10,1.2,512,0,0,0,76545.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,6,Intel,Windows 10,2.3,0,1000,0,0,48195.0
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Linux,2.4,0,500,0,0,30345.0
+Dell,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2,Intel,Windows 10,2.2,0,500,0,0,39795.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.6,0,1000,0,0,94395.0
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9410 2.9GHz,6,AMD,Windows 10,2.04,0,0,0,1,57748.950000000004
+Dell,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8,AMD,Linux,2.3,0,1000,0,0,84628.95
+HP,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2,Intel,Windows 10,1.17,0,0,32,0,21945.0
+Asus,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,4,Nvidia,Windows 10,2.2,0,500,0,0,75633.6
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4,Intel,Windows 10,1.8,128,0,0,0,66990.0
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i7 6500U 2.5GHz,16,Intel,Windows 10,1.3,512,0,0,0,157395.0
+Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2,Intel,Windows 10,1.5,0,0,64,0,24045.0
+HP,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,6,AMD,Windows 10,2.19,0,1000,0,0,80220.0
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,4,Intel,Windows 10,2.2,0,500,0,0,38745.0
+Asus,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core M 6Y30 0.9GHz,8,Intel,Windows 10,1.2,512,0,0,0,76545.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,6,Intel,Windows 10,2.3,0,1000,0,0,48195.0
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Linux,2.4,0,500,0,0,30345.0
+Dell,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2,Intel,Windows 10,2.2,0,500,0,0,39795.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.6,0,1000,0,0,94395.0
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9410 2.9GHz,6,AMD,Windows 10,2.04,0,0,0,1,57748.950000000004
+Dell,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8,AMD,Linux,2.3,0,1000,0,0,84628.95
+HP,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2,Intel,Windows 10,1.17,0,0,32,0,21945.0
+Asus,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,4,Nvidia,Windows 10,2.2,0,500,0,0,75633.6
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4,Intel,Windows 10,1.8,128,0,0,0,66990.0
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i7 6500U 2.5GHz,16,Intel,Windows 10,1.3,512,0,0,0,157395.0
+Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2,Intel,Windows 10,1.5,0,0,64,0,24045.0
+HP,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,6,AMD,Windows 10,2.19,0,1000,0,0,80220.0
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,4,Intel,Windows 10,2.2,0,500,0,0,38745.0
+Asus,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel Core M 6Y30 0.9GHz,8,Intel,Windows 10,1.2,512,0,0,0,76545.0
+Dell,Notebook,15.6,1366x768,Intel Core i3 7100U 2.4GHz,6,Intel,Windows 10,2.3,0,1000,0,0,48195.0
+Acer,Notebook,15.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,4,Intel,Linux,2.4,0,500,0,0,30345.0
+Dell,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2,Intel,Windows 10,2.2,0,500,0,0,39795.0
+Lenovo,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel Core i7 6700HQ 2.6GHz,8,Nvidia,Windows 10,2.6,0,1000,0,0,94395.0
+HP,Notebook,15.6,Full HD 1920x1080,AMD A9-Series 9410 2.9GHz,6,AMD,Windows 10,2.04,0,0,0,1,57748.950000000004
+Dell,Notebook,15.6,1366x768,Intel Core i7 7500U 2.7GHz,8,AMD,Linux,2.3,0,1000,0,0,84628.95
+HP,Netbook,11.6,1366x768,Intel Celeron Dual Core N3060 1.6GHz,2,Intel,Windows 10,1.17,0,0,32,0,21945.0
+Asus,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,4,Nvidia,Windows 10,2.2,0,500,0,0,75633.6
+Lenovo,2 in 1 Convertible,14.0,IPS Panel Full HD / Touchscreen 1920x1080,Intel Core i7 6500U 2.5GHz,4,Intel,Windows 10,1.8,128,0,0,0,66990.0
+Lenovo,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel Core i7 6500U 2.5GHz,16,Intel,Windows 10,1.3,512,0,0,0,157395.0
+Lenovo,Notebook,14.0,1366x768,Intel Celeron Dual Core N3050 1.6GHz,2,Intel,Windows 10,1.5,0,0,64,0,24045.0
+HP,Notebook,15.6,1366x768,Intel Core i7 6500U 2.5GHz,6,AMD,Windows 10,2.19,0,1000,0,0,80220.0
+Asus,Notebook,15.6,1366x768,Intel Celeron Dual Core N3050 1.6GHz,4,Intel,Windows 10,2.2,0,500,0,0,38745.0
