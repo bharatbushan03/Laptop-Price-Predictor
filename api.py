@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 from typing import Annotated
 import pickle
@@ -9,6 +10,14 @@ app = FastAPI(
     title="Laptop Price Predictor API",
     description="An API to predict laptop prices based on their features.",
     version="1.0.0",
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 logging.basicConfig(level=logging.INFO)
@@ -51,6 +60,21 @@ def predict_price(data: LaptopFeatures):
 
     try:
         input_df = pd.DataFrame([data.model_dump()])
+        input_df = input_df.rename(columns={
+            'company': 'Company',
+            'typename': 'TypeName',
+            'inches': 'Inches',
+            'screen_resolution': 'ScreenResolution',
+            'cpu': 'Cpu',
+            'ram': 'Ram',
+            'gpu': 'Gpu',
+            'os': 'OpSys',
+            'weight': 'Weight',
+            'ssd': 'SSD',
+            'hdd': 'HDD',
+            'flash_storage': 'Flash',
+            'hybrid_storage': 'Hybrid',
+        })
         prediction = model.predict(input_df)
         predicted_price = prediction[0]
 

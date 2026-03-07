@@ -1,0 +1,24 @@
+services:
+  # ── FastAPI Backend ──────────────────────────────────────────
+  - type: web
+    name: laptop-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+
+  # ── Streamlit Frontend ───────────────────────────────────────
+  - type: web
+    name: laptop-frontend
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run frontend.py --server.port $PORT --server.address 0.0.0.0 --server.headless true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: API_URL
+        # After the API service is deployed, replace this with your actual API URL:
+        # e.g. https://laptop-api.onrender.com/predict
+        value: https://laptop-api.onrender.com/predict
