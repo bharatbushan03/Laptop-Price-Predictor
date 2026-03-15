@@ -25,7 +25,7 @@ hdd = st.slider('Choose the HDD of the laptop in GB', 0, 2048, 0)
 flash_storage = st.slider('Choose the flash storage of the laptop in GB', 0, 1024, 0)
 hybrid_storage = st.slider('Choose the hybrid storage of the laptop in GB', 0, 1024, 0)
 
-API_URL = os.getenv('API_URL', 'http://127.0.0.1:8000/predict')
+API_URL = os.getenv('API_URL', 'https://laptop-price-predictor-d3g1.onrender.com/predict')
 
 if st.button('Predict Price'):
     data = {
