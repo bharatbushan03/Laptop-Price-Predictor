@@ -8,6 +8,8 @@ A machine learning web app that predicts laptop prices based on hardware specs.
 
 ---
 
+## Live Link https://laptop-price-predictor-vwwz8amykeevfszdhfhtnp.streamlit.app/
+
 ## Running Locally
 
 ```bash
